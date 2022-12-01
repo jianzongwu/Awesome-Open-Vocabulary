@@ -1,4 +1,4 @@
-# OpenVocabularySurvey
+# Open Vocabulary Survey
 
 
 ### Open Set Classification 
