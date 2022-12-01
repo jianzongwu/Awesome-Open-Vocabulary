@@ -1,7 +1,8 @@
 # Open Vocabulary Survey
 
 
-### Open Set Classification 
+### Open Vocabulary Classification 
+
 
 ### Vision Language Modeling 
 
@@ -9,12 +10,18 @@
 ### Object Detection
 
 
+
 ### Image Segmentation
+
 
 
 ### Video Scene Understanding
 
 
-### 3D scene understanding 
+
+### 3D Scene Understanding 
+
+
+
 
 
