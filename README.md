@@ -1,7 +1,7 @@
 # Open Vocabulary Survey
 
 
-If you find missing cited works or some suggestions to this survey. Please send us a issue. 
+If you find missing cited works or some suggestions to this survey. Please send us an issue. 
 
 ### Open Vocabulary Classification 
 
