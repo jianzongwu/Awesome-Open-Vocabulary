@@ -19,6 +19,7 @@
 |[GroupViT: Semantic Segmentation Emerges from Text Supervision](https://arxiv.org/abs/2202.11094)|CVPR 2022|`cap.`, `w/o ps.`|
 |[ZegFormer: Decoupling Zero-Shot Semantic Segmentation](https://arxiv.org/abs/2112.07910)|CVPR 2022|`vlm.`|
 |[Scaling Open-Vocabulary Image Segmentation with Image-Level Labels](https://arxiv.org/abs/2112.12143)|ECCV 2022|`cap.`, `vlm.`|
+|[Extract Free Dense Labels from CLIP](https://arxiv.org/abs/2112.01071)|ECCV 2022 Oral|`vlm`, `pl`|
 |[A Simple Baseline for Open-Vocabulary Semantic Segmentation with Pre-trained Vision-Language Model](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890725.pdf)|ECCV 2022|`vlm.`|
 |[Open-world Semantic Segmentation via Contrasting and Clustering Vision-Language Embedding](https://arxiv.org/abs/2207.08455)|ECCV 2022|`vlm.`, `w/o ps.`|
 |[Open-vocabulary Semantic Segmentation with Frozen Vision-Language Models](https://arxiv.org/abs/2210.15138)|BMVC 2022 Oral|`vlm.`|
