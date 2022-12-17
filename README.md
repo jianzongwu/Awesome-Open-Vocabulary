@@ -10,18 +10,24 @@ If you find missing cited works or some suggestions to this survey. Please send 
 - `pl.`: Generate pseudo labels
 - `w/o ps.`: Without pixel-level supervision
 - `osps.`: Open-Set Panoptic Segmentation
+- `pre.`: Vision-language pretraining
 
 ## Open Vocabulary Classification 
 
 
 ## Vision Language Modeling 
 
+|Paper|Source|Keywords|
+|-|-|-|
+|GLIP|||
+||||
 
 ## Object Detection
 
 |Paper|Source|Keywords|
 |-|-|-|
 |[Open-Vocabulary Object Detection Using Captions](https://arxiv.org/abs/2011.10678)|CVPR 2021 Oral|`cap.`|
+|[RegionCLIP: Region-based Language-Image Pretraining](https://arxiv.org/abs/2112.09106)|arXiv 2021.12|`cap.`, `vlm.`, `pre.`|
 |[Learning to Prompt for Open-Vocabulary Object Detection with Vision-Language Model](https://arxiv.org/abs/2203.14940)|CVPR 2022|`vlm.`|
 |[Open-vocabulary Object Detection via Vision and Language Knowledge Distillation](https://arxiv.org/abs/2104.13921)|ICLR 2022|`vlm.`|
 |[Localized Vision-Language Matching for Open-vocabulary Object Detection](https://arxiv.org/abs/2205.06160)|GCPR 2022|`cap.`|
@@ -56,6 +62,7 @@ If you find missing cited works or some suggestions to this survey. Please send 
 |[Open-Vocabulary Semantic Segmentation with Mask-adapted CLIP](https://arxiv.org/abs/2210.04150)|arXiv 2022.10|`vlm.`, `pl.`|
 |[SegCLIP: Patch Aggregation with Learnable Centers for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2211.14813)|arXiv 2022.11|`vlm.`, `cap.`, `w/o ps.`|
 |[Learning to Generate Text-grounded Mask for Open-world Semantic Segmentation from Only Image-Text Pairs](https://arxiv.org/abs/2212.00785)|arXiv 2022.12|`vlm.`, `cap.`, `w/o ps.`|
+|[Open Vocabulary Semantic Segmentation with Patch Aligned Contrastive Learning](https://arxiv.org/abs/2212.04994)|arXiv 2022.12|`vlm.`, `cap.`|
 
 ### Panoptic Segmentation
 
