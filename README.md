@@ -83,10 +83,10 @@ If you find missing cited works or some suggestions to this survey. Please send 
 |[Scaling Open-Vocabulary Image Segmentation with Image-Level Labels](https://arxiv.org/abs/2112.12143)|ECCV 2022|`cap.`, `vlm.`|
 |[Extract Free Dense Labels from CLIP](https://arxiv.org/abs/2112.01071)|ECCV 2022 Oral|`vlm`, `pl`|
 |[A Simple Baseline for Open-Vocabulary Semantic Segmentation with Pre-trained Vision-Language Model](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890725.pdf)|ECCV 2022|`vlm.`|
-|[Open-world Semantic Segmentation via Contrasting and Clustering Vision-Language Embedding](https://arxiv.org/abs/2207.08455)|ECCV 2022|`vlm.`, `w/o ps.`|
+|[Open-world Semantic Segmentation via Contrasting and Clustering Vision-Language Embedding](https://arxiv.org/abs/2207.08455)|ECCV 2022|`vlm.`, `cap.`, `w/o ps.`|
 |[Open-vocabulary Semantic Segmentation with Frozen Vision-Language Models](https://arxiv.org/abs/2210.15138)|BMVC 2022 Oral|`vlm.`|
 |[Open-Vocabulary Semantic Segmentation with Mask-adapted CLIP](https://arxiv.org/abs/2210.04150)|arXiv 2022.10|`vlm.`, `pl.`|
-|[SegCLIP: Patch Aggregation with Learnable Centers for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2211.14813)|arXiv 2022.11|`vlm.`, `cap.`, `w/o ps.`|
+|[SegCLIP: Patch Aggregation with Learnable Centers for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2211.14813)|arXiv 2022.11|`vlm.`, `cap.`, `pl`, `w/o ps.`|
 |[Learning to Generate Text-grounded Mask for Open-world Semantic Segmentation from Only Image-Text Pairs](https://arxiv.org/abs/2212.00785)|arXiv 2022.12|`vlm.`, `cap.`, `w/o ps.`|
 |[Open Vocabulary Semantic Segmentation with Patch Aligned Contrastive Learning](https://arxiv.org/abs/2212.04994)|arXiv 2022.12|`vlm.`, `cap.`, `w/o ps.`|
 |[Learning Open-vocabulary Semantic Segmentation Models From Natural Language Supervision](https://arxiv.org/abs/2301.09121)|arXiv 2023.01|`cap.`, `w/o ps.`|
@@ -95,7 +95,7 @@ If you find missing cited works or some suggestions to this survey. Please send 
 
 |Paper|Source|Keywords|
 |-|-|-|
-|[Open-Vocabulary Instance Segmentation via Robust Cross-Modal Pseudo-Labeling](https://arxiv.org/abs/2111.12698)|CVPR 2022|`pl.`, `vlm.`|
+|[Open-Vocabulary Instance Segmentation via Robust Cross-Modal Pseudo-Labeling](https://arxiv.org/abs/2111.12698)|CVPR 2022|`cap.`, `pl.`, `vlm.`|
 |[Betrayed by Captions: Joint Caption Grounding and Generation for Open Vocabulary Instance Segmentation](https://arxiv.org/abs/2301.00805)|arXiv 2023.01|`cap.`|
 
 ### Panoptic Segmentation
