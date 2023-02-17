@@ -35,6 +35,7 @@ If you find missing cited works or some suggestions to this survey. Please send 
 - `w/o ps.`: Without pixel-level supervision
 - `osps.`: Open-Set Panoptic Segmentation
 - `pre.`: Vision-language pretraining
+- `other.`: Other methods that cannot be grouped into above ones.
 
 ## Open Vocabulary Classification 
 
@@ -68,6 +69,7 @@ If you find missing cited works or some suggestions to this survey. Please send 
 |[F-VLM: Open-Vocabulary Object Detection upon Frozen Vision and Language Models](https://arxiv.org/abs/2209.15639)|arXiv 2022.09|`vlm.`|
 |[P3OVD: Fine-grained Visual-Text Prompt-Driven Self-Training for Open-Vocabulary Object Detection](https://arxiv.org/abs/2211.00849)|arXiv 2022.11|`vlm.`, `pl.`|
 |[Learning Object-Language Alignments for Open-Vocabulary Object Detection](https://arxiv.org/abs/2211.14843)|arXiv 2022.11|`vlm.`, `pl.`|
+|[Learning to Detect and Segment for Open Vocabulary Object Detection](https://arxiv.org/abs/2212.12130)|arXiv 2022.12|`other.`|
 
 ## Image Segmentation
 
@@ -87,6 +89,7 @@ If you find missing cited works or some suggestions to this survey. Please send 
 |[SegCLIP: Patch Aggregation with Learnable Centers for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2211.14813)|arXiv 2022.11|`vlm.`, `cap.`, `w/o ps.`|
 |[Learning to Generate Text-grounded Mask for Open-world Semantic Segmentation from Only Image-Text Pairs](https://arxiv.org/abs/2212.00785)|arXiv 2022.12|`vlm.`, `cap.`, `w/o ps.`|
 |[Open Vocabulary Semantic Segmentation with Patch Aligned Contrastive Learning](https://arxiv.org/abs/2212.04994)|arXiv 2022.12|`vlm.`, `cap.`|
+|[Learning Open-vocabulary Semantic Segmentation Models From Natural Language Supervision](https://arxiv.org/abs/2301.09121)|arXiv 2023.01|`cap.`, `w.o ps.`|
 
 ### Instance Segmentation
 |Paper|Source|Keywords|
