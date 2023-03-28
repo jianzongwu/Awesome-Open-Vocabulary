@@ -105,12 +105,13 @@ If you find missing cited works or some suggestions to this survey. Please send 
 |[Exemplar-Based Open-Set Panoptic Segmentation Network](https://arxiv.org/abs/2105.08336)|CVPR 2021|`osps.`|
 |[Dual Decision Improves Open-Set Panoptic Segmentation](https://arxiv.org/abs/2207.02504)|arXiv 2022.08|`osps.`|
 |[Open-Vocabulary Panoptic Segmentation with MaskCLIP](https://arxiv.org/abs/2208.08984)|arXiv 2022.08|`vlm`, `pl.`|
+|[Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models](https://arxiv.org/abs/2303.04803)|arXiv 2022.03|`other`, `vlm`|
 
 ## Video Scene Understanding
 
 ## 3D Scene Understanding 
 
-## Open World
+## Open World Detection
 
 ### Keywords
 
@@ -121,11 +122,12 @@ If you find missing cited works or some suggestions to this survey. Please send 
 |Paper|Source|Keywords|
 |-|-|-|
 |[Towards Open World Recognition](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Bendale_Towards_Open_World_2015_CVPR_paper.html)|CVPR 2015|`first.`|
+|[Towards Open World Object Detection.](https://arxiv.com/abs/2103.02603)|CVPR 2021 Oral||
 |[OW-DETR: Open-world Detection Transformer](https://arxiv.org/abs/2112.01513)|CVPR 2022||
+|[UC-OWOD: Unknown-Classified Open World Object Detection](https://arxiv.com/abs/2207.11455)|ECCV 2022|`unknown classified`|
 |[Revisiting Open World Object Detection](https://arxiv.org/abs/2201.00471)|arXiv 2022.01|`re.`|
 |[Rectifying Open-set Object Detection: A Taxonomy, Practical Applications, and Proper Evaluation](https://arxiv.org/abs/2207.09775)|arXiv 2022.07|`re.`, `anno.`|
 |[Open World DETR: Transformer based Open World Object Detection](https://arxiv.org/abs/2212.02969)|arXiv 2022.12||
 |[PROB: Probabilistic Objectness for Open World Object Detection](https://arxiv.org/abs/2212.01424)|arXiv 2022.12||
-|[Learning to Generate Text-grounded Mask for Open-world Semantic Segmentation from Only Image-Text Pairs](https://arxiv.org/abs/2212.00785)|arXiv 2022.12||
 
 
