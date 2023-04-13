@@ -35,6 +35,7 @@ If you find missing cited works or some suggestions to this survey. Please send 
 - `w/o ps.`: Without pixel-level supervision
 - `osps.`: Open-Set Panoptic Segmentation
 - `pre.`: Vision-language pretraining
+- `diff.`: Use diffusion models
 - `unify`: Unify several tasks (semantic segmentation, instance segmentation, and panoptic segmentation)
 - `other.`: Other methods that cannot be grouped into above ones.
 
@@ -87,7 +88,7 @@ If you find missing cited works or some suggestions to this survey. Please send 
 |[GroupViT: Semantic Segmentation Emerges from Text Supervision](https://arxiv.org/abs/2202.11094)|CVPR 2022|`cap.`, `w/o ps.`|
 |[ZegFormer: Decoupling Zero-Shot Semantic Segmentation](https://arxiv.org/abs/2112.07910)|CVPR 2022|`vlm.`|
 |[Scaling Open-Vocabulary Image Segmentation with Image-Level Labels](https://arxiv.org/abs/2112.12143)|ECCV 2022|`cap.`, `vlm.`|
-|[Extract Free Dense Labels from CLIP](https://arxiv.org/abs/2112.01071)|ECCV 2022 Oral|`vlm`, `pl`|
+|[Extract Free Dense Labels from CLIP](https://arxiv.org/abs/2112.01071)|ECCV 2022 Oral|`vlm`, `pl`, `w/o ps.`|
 |[A Simple Baseline for Open-Vocabulary Semantic Segmentation with Pre-trained Vision-Language Model](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890725.pdf)|ECCV 2022|`vlm.`|
 |[Open-world Semantic Segmentation via Contrasting and Clustering Vision-Language Embedding](https://arxiv.org/abs/2207.08455)|ECCV 2022|`vlm.`, `cap.`, `w/o ps.`|
 |[Open-vocabulary Semantic Segmentation with Frozen Vision-Language Models](https://arxiv.org/abs/2210.15138)|BMVC 2022 Oral|`vlm.`|
@@ -99,7 +100,7 @@ If you find missing cited works or some suggestions to this survey. Please send 
 |[Side Adapter Network for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2302.12242)|CVPR 2023 Highlight|`vlm.`|
 |[CAT-Seg: Cost Aggregation for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2303.11797)|arXiv 2023.03|`vlm.`|
 |[Global Knowledge Calibration for Fast Open-Vocabulary Segmentation](https://arxiv.org/abs/2303.09181)|arXiv 2023.03|`vlm.`|
-|[A Simple Framework for Open-Vocabulary Segmentation and Detection](https://arxiv.org/abs/2303.08131)|arXiv 2023.03|`vlm.`|
+|[A Simple Framework for Open-Vocabulary Segmentation and Detection](https://arxiv.org/abs/2303.08131)|arXiv 2023.03|`vlm.`, `unify`|
 
 ### Instance Segmentation
 
@@ -115,8 +116,8 @@ If you find missing cited works or some suggestions to this survey. Please send 
 |-|-|-|
 |[Exemplar-Based Open-Set Panoptic Segmentation Network](https://arxiv.org/abs/2105.08336)|CVPR 2021|`osps.`|
 |[Dual Decision Improves Open-Set Panoptic Segmentation](https://arxiv.org/abs/2207.02504)|arXiv 2022.08|`osps.`|
-|[Open-Vocabulary Panoptic Segmentation with MaskCLIP](https://arxiv.org/abs/2208.08984)|arXiv 2022.08|`vlm`, `pl.`|
-|[Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models](https://arxiv.org/abs/2303.04803)|arXiv 2022.03|`other`, `vlm`|
+|[Open-Vocabulary Panoptic Segmentation with MaskCLIP](https://arxiv.org/abs/2208.08984)|arXiv 2022.08|`vlm`|
+|[Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models](https://arxiv.org/abs/2303.04803)|arXiv 2022.03|`diff`, `vlm`|
 |[Open-vocabulary Panoptic Segmentation with Embedding Modulation](https://arxiv.org/abs/2303.11324)|arXiv 2023.03|`vlm.`|
 
 ## Video Scene Understanding
