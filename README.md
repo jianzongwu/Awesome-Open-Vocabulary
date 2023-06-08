@@ -33,7 +33,6 @@ If you find missing cited works or some suggestions to this survey. Please send 
 - `vlm.`: Use pretrained VLMs like CLIP 
 - `pl.`: Generate pseudo labels
 - `w/o ps.`: Without pixel-level supervision
-- `osps.`: Open-Set Panoptic Segmentation
 - `pre.`: Vision-language pretraining
 - `diff.`: Use diffusion models
 - `unify`: Unify several tasks (semantic segmentation, instance segmentation, and panoptic segmentation)
@@ -72,7 +71,7 @@ If you find missing cited works or some suggestions to this survey. Please send 
 |[F-VLM: Open-Vocabulary Object Detection upon Frozen Vision and Language Models](https://arxiv.org/abs/2209.15639)|arXiv 2022.09|`vlm.`|
 |[P3OVD: Fine-grained Visual-Text Prompt-Driven Self-Training for Open-Vocabulary Object Detection](https://arxiv.org/abs/2211.00849)|arXiv 2022.11|`vlm.`, `pl.`|
 |[Learning Object-Language Alignments for Open-Vocabulary Object Detection](https://arxiv.org/abs/2211.14843)|arXiv 2022.11|`vlm.`, `pl.`|
-|[Learning to Detect and Segment for Open Vocabulary Object Detection](https://arxiv.org/abs/2212.12130)|arXiv 2022.12|`other.`|
+|[Learning to Detect and Segment for Open Vocabulary Object Detection](https://arxiv.org/abs/2212.12130)|CVPR 2023|`other.`|
 
 ## Image Segmentation
 
@@ -98,6 +97,7 @@ If you find missing cited works or some suggestions to this survey. Please send 
 |[Side Adapter Network for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2302.12242)|CVPR 2023 Highlight|`vlm.`|
 |[SegCLIP: Patch Aggregation with Learnable Centers for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2211.14813)|arXiv 2022.11|`vlm.`, `cap.`, `pl`, `w/o ps.`|
 |[Open Vocabulary Semantic Segmentation with Patch Aligned Contrastive Learning](https://arxiv.org/abs/2212.04994)|arXiv 2022.12|`vlm.`, `cap.`, `w/o ps.`|
+|[Generalized Decoding for Pixel, Image, and Language](https://arxiv.org/abs/2212.11270)|arXiv 2022.12|`vlm.`, `pre.`|
 |[CAT-Seg: Cost Aggregation for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2303.11797)|arXiv 2023.03|`vlm.`|
 |[Global Knowledge Calibration for Fast Open-Vocabulary Segmentation](https://arxiv.org/abs/2303.09181)|arXiv 2023.03|`vlm.`|
 |[A Simple Framework for Open-Vocabulary Segmentation and Detection](https://arxiv.org/abs/2303.08131)|arXiv 2023.03|`vlm.`, `unify`|
@@ -115,8 +115,6 @@ If you find missing cited works or some suggestions to this survey. Please send 
 
 |Paper|Source|Keywords|
 |-|-|-|
-|[Exemplar-Based Open-Set Panoptic Segmentation Network](https://arxiv.org/abs/2105.08336)|CVPR 2021|`osps.`|
-|[Dual Decision Improves Open-Set Panoptic Segmentation](https://arxiv.org/abs/2207.02504)|arXiv 2022.08|`osps.`|
 |[Open-Vocabulary Panoptic Segmentation with MaskCLIP](https://arxiv.org/abs/2208.08984)|arXiv 2022.08|`vlm`|
 |[Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models](https://arxiv.org/abs/2303.04803)|CVPR 2023 Highlight|`diff`, `vlm`|
 |[Open-vocabulary Panoptic Segmentation with Embedding Modulation](https://arxiv.org/abs/2303.11324)|arXiv 2023.03|`vlm.`|
@@ -125,9 +123,11 @@ If you find missing cited works or some suggestions to this survey. Please send 
 
 ## 3D Scene Understanding 
 
-## Open World Detection
+## Class-agnostic Detection and Segmentation
 
-### Keywords
+### Open-World Object Detection
+
+#### Keywords
 
 - `first.`: the first paper to propose open world.
 - `re.`: revisiting/rethinking open world setting.
@@ -144,4 +144,9 @@ If you find missing cited works or some suggestions to this survey. Please send 
 |[Open World DETR: Transformer based Open World Object Detection](https://arxiv.org/abs/2212.02969)|arXiv 2022.12||
 |[PROB: Probabilistic Objectness for Open World Object Detection](https://arxiv.org/abs/2212.01424)|arXiv 2022.12||
 
+### Open-Set Panoptic Segmentation
 
+|Paper|Source|Keywords|
+|-|-|-|
+|[Exemplar-Based Open-Set Panoptic Segmentation Network](https://arxiv.org/abs/2105.08336)|CVPR 2021||
+|[Dual Decision Improves Open-Set Panoptic Segmentation](https://arxiv.org/abs/2207.02504)|arXiv 2022.08||
