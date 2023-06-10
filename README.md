@@ -81,7 +81,8 @@ In this survey, we present the first detailed survey on the Open Vocabulary task
 - `pre.`: Vision-language pretraining
 - `diff.`: Use diffusion models
 - `unify`: Unify several tasks (semantic segmentation, instance segmentation, and panoptic segmentation)
-- `other.`: Other methods that cannot be grouped into above ones.
+- `sam`: Use SAM (Segment Anything Model)
+- `other`: Other methods that cannot be grouped into above ones.
 
 ### Open Vocabulary Object Detection
 
@@ -134,6 +135,12 @@ In this survey, we present the first detailed survey on the Open Vocabulary task
 |2023|arXiv|`vlm.`, `unify`|[A Simple Framework for Open-Vocabulary Segmentation and Detection](https://arxiv.org/abs/2303.08131)|[Code](https://github.com/IDEA-Research/OpenSeeD)|
 |2023|arXiv|`vlm.`|[Global Knowledge Calibration for Fast Open-Vocabulary Segmentation](https://arxiv.org/abs/2303.09181)|N/A|
 |2023|arXiv|`vlm.`|[CAT-Seg: Cost Aggregation for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2303.11797)|[Code](https://github.com/KU-CVLAB/CAT-Seg)|
+|2023|arXiv|`vlm.`, `unify`|[Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition](https://arxiv.org/abs/2304.04704)|[Code](https://github.com/amazon-science/prompt-pretraining)|
+|2023|arXiv|`vlm.`, `unify`|[Segment Everything Everywhere All at Once](https://arxiv.org/abs/2304.06718)|[Code](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)|
+|2023|arXiv|`vlm.`|[MVP-SEG: Multi-View Prompt Learning for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2304.06957)|N/A|
+|2023|arXiv|`vlm.`|[TagCLIP: Improving Discrimination Ability of Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2304.07547)|N/A|
+|2023|arXiv|`vlm.`, `w/o ps.`, `sam`|[Exploring Open-Vocabulary Semantic Segmentation without Human Labels](https://arxiv.org/abs/2306.00450)|N/A|
+|2023|arXiv|`vlm.`, `unify`|[DaTaSeg: Taming a Universal Multi-Dataset Multi-Task Segmentation Model](https://arxiv.org/abs/2306.01736)|N/A|
 
 #### Instance Segmentation
 
@@ -142,6 +149,7 @@ In this survey, we present the first detailed survey on the Open Vocabulary task
 |2022|CVPR|`cap.`, `pl.`, `vlm.`|[Open-Vocabulary Instance Segmentation via Robust Cross-Modal Pseudo-Labeling](https://arxiv.org/abs/2111.12698)|[Code](https://github.com/hbdat/cvpr22_cross_modal_pseudo_labeling)|
 |2023|CVPR|`vlm`, `cap`, `w/o ps.`|[Mask-free OVIS: Open-Vocabulary Instance Segmentation without Manual Mask Annotations](https://arxiv.org/abs/2303.16891)|[Code](https://github.com/Vibashan/Maskfree-OVIS)|
 |2023|arXiv|`cap.`|[Betrayed by Captions: Joint Caption Grounding and Generation for Open Vocabulary Instance Segmentation](https://arxiv.org/abs/2301.00805)|[Code](https://github.com/jianzongwu/betrayed-by-captions)|
+|2023|arXiv|`vlm.`|[OpenVIS: Open-vocabulary Video Instance Segmentation](https://arxiv.org/abs/2305.16835)|N/A|
 
 #### Panoptic Segmentation
 
