@@ -82,6 +82,8 @@ In this survey, we present the first detailed survey on the Open Vocabulary task
 - `diff.`: Use diffusion models
 - `unify`: Unify several tasks (semantic segmentation, instance segmentation, and panoptic segmentation)
 - `sam`: Use SAM (Segment Anything Model)
+- `open.`: Demonstrated with open-set capability. (only for Video Understanding)
+- `audio.`: With audio modality.
 - `other`: Other methods that cannot be grouped into above ones.
 
 ### Open Vocabulary Object Detection
@@ -160,6 +162,20 @@ In this survey, we present the first detailed survey on the Open Vocabulary task
 |2023|arXiv|`vlm.`|[Open-vocabulary Panoptic Segmentation with Embedding Modulation](https://arxiv.org/abs/2303.11324)|N/A|
 
 ### Open Vocabulary Video Understanding
+
+|Year|Venue|Keywords|Acronym|Paper Title|Code/Project|
+|:-:|:-:|:-:|:-:|-|-|
+|2021|arXiv|`vlm.`,`open.`|ActionCLIP|[ActionCLIP: A New Paradigm for Video Action Recognition](https://arxiv.org/abs/2109.08472)|[Code](https://github.com/sallymmx/ActionCLIP)|
+|2022|ECCV|`vlm.`,`open.`|I-VL|[Prompting Visual-Language Models for Efficient Video Understanding](https://arxiv.org/abs/2112.04478)|[Project](https://ju-chen.github.io/efficient-prompt)|
+|2022|ECCV|`vlm.`|EVL|[Frozen CLIP Models are Efficient Video Learners](https://arxiv.org/abs/2208.03550)|[Code](https://github.com/OpenGVLab/efficient-video-recognition)|
+|2022|ECCV|`vlm.`,`open.`|X-CLIP|[Expanding Language-Image Pretrained Models for General Video Recognition](https://arxiv.org/abs/2208.02816)|[Code](https://aka.ms/X-CLIP)|
+|2022|arXiv|`vlm.`,`open.`,`audio.`|MOV|[Multimodal Open-Vocabulary Video Classification via Pre-Trained Vision and Language Models](https://arxiv.org/abs/2207.07646)|N/A|
+|2023|AAAI|`vlm.`,`open.`|Text4Vis|[Revisiting Classifier: Transferring Vision-Language Models for Video Recognition](https://arxiv.org/abs/2207.01297)|[Code](https://github.com/whwu95/Text4Vis)|
+|2023|ICLR|`vlm.`|AIM|[AIM: Adapting Image Models for Efficient Video Action Recognition](https://arxiv.org/abs/2302.03024)|[Project](https://adapt-image-models.github.io/)|
+|2023|CVPR|`vlm.`,`open.`|ViFi-CLIP|[Fine-tuned CLIP Models are Efficient Video Learners](https://arxiv.org/abs/2212.03640)|[Code](https://github.com/muzairkhattak/ViFi-CLIP)|
+|2023|ICML|`vlm.`,`open.`|Open-VCLIP|[Open-VCLIP: Transforming CLIP to an Open-vocabulary Video Model via Interpolated Weight Optimization](https://arxiv.org/abs/2302.00624)|[Code](https://github.com/wengzejia1/Open-VCLIP)|
+|2023|arXiv|`vlm.`,`open.`|ASU|[Video Action Recognition with Attentive Semantic Units](https://arxiv.org/abs/2303.09756)|N/A|
+
 
 ### Open Vocabulary 3D Scene Understanding 
 
