@@ -175,6 +175,8 @@ In this survey, we present the first detailed survey on the Open Vocabulary task
 |2023|CVPR|`vlm.`,`open.`|ViFi-CLIP|[Fine-tuned CLIP Models are Efficient Video Learners](https://arxiv.org/abs/2212.03640)|[Code](https://github.com/muzairkhattak/ViFi-CLIP)|
 |2023|ICML|`vlm.`,`open.`|Open-VCLIP|[Open-VCLIP: Transforming CLIP to an Open-vocabulary Video Model via Interpolated Weight Optimization](https://arxiv.org/abs/2302.00624)|[Code](https://github.com/wengzejia1/Open-VCLIP)|
 |2023|arXiv|`vlm.`,`open.`|ASU|[Video Action Recognition with Attentive Semantic Units](https://arxiv.org/abs/2303.09756)|N/A|
+|2023|arXiv|`vlm.`,`open.`|VicTR|[VicTR: Video-conditioned Text Representations for Activity Recognition](https://arxiv.org/abs/2304.02560)|N/A|
+|2023|arXiv|`vlm.`,`open.`|MAXI|[MAtch, eXpand and Improve: Unsupervised Finetuning for Zero-Shot Action Recognition with Language Knowledge](https://arxiv.org/abs/2303.08914)|N/A|
 
 
 ### Open Vocabulary 3D Scene Understanding 
