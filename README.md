@@ -16,11 +16,11 @@
     ·
     <a href="https://henghuiding.github.io/"><strong>Henghui Ding</strong></a>
     ·
-    <a><strong>Yibo Yang</strong></a>
+    <a href="https://iboing.github.io/"><strong>Yibo Yang</strong></a>
     ·
-    <a><strong>Xia Li</strong></a>
+    <a href="https://xialipku.github.io/"><strong>Xia Li</strong></a>
     ·
-    <a><strong>Jiangning Zhang</strong></a>
+    <a href="https://zhangzjn.github.io/"><strong>Jiangning Zhang</strong></a>
     ·
     <a><strong>Yunhai Tong</strong></a>
     ·
