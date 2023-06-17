@@ -189,7 +189,25 @@ In this survey, we present the first detailed survey on the Open Vocabulary task
 |2023|arXiv|`vlm.`,`open.`|MindVLT|[Towards Open-Vocabulary Video Instance Segmentation](https://arxiv.org/abs/2304.01715)|N/A|
 |2023|arXiv|`vlm.`,`open.`|OpenVIS|[OpenVIS: Open-vocabulary Video Instance Segmentation](https://arxiv.org/abs/2305.16835)|N/A|
 
-### Open Vocabulary 3D Scene Understanding 
+### Open Vocabulary 3D Scene Understanding
+#### 3D Classification
+|Year|Venue|Keywords|Acronym|Paper Title|Code/Project|
+|:-:|:-:|:-:|:-:|-|-|
+|2022|CVPR|`vlm.`|PointCLIP|[PointCLIP: Point Cloud Understanding by CLIP](https://arxiv.org/abs/2112.02413)|[Code](https://github.com/ZrrSkywalker/PointCLIP)|
+|2022|arXiv|`vlm.`|CLIP2Point|[CLIP2Point: Transfer CLIP to Point Cloud Classification with Image-Depth Pre-training](https://arxiv.org/abs/2210.01055)|[Code](https://github.com/tyhuang0428/CLIP2Point)|
+|2022|arXiv|`vlm.`|PointCLIPV2|[PointCLIP V2: Adapting CLIP for Powerful 3D Open-world Learning](https://arxiv.org/abs/2211.11682)|[Code](https://github.com/yangyangyang127/PointCLIP_V2)|
+|2022|arXiv|`vlm.`|LidarCLIP|[LidarCLIP or: How I Learned to Talk to Point Clouds](https://arxiv.org/abs/2212.06858)|[Code](https://github.com/atonderski/lidarclip)|
+|2023|CVPR|`vlm.`|ULIP|[ULIP: Learning a Unified Representation of Language, Images, and Point Clouds for 3D Understanding](https://arxiv.org/abs/2212.05171)|[Code](https://github.com/salesforce/ULIP)|
+#### 3D Detection
+|Year|Venue|Keywords|Acronym|Paper Title|Code/Project|
+|:-:|:-:|:-:|:-:|-|-|
+|2022|arXiv|`vlm.`|OV-3DETIC|[Open-Vocabulary 3D Detection via Image-level Class and Debiased Cross-modal Contrastive Learning](https://arxiv.org/abs/2207.01987)|N/A|
+#### 3D segmentation
+|Year|Venue|Keywords|Acronym|Paper Title|Code/Project|
+|:-:|:-:|:-:|:-:|-|-|
+|2023|CVPR|`vlm.`|PLA|[PLA: Language-Driven Open-Vocabulary 3D Scene Understanding](https://arxiv.org/abs/2211.16312)|[Code](https://dingry.github.io/projects/PLA)|
+|2023|CVPR|`vlm.`|CLIP2Scene|[CLIP2Scene: Towards Label-efficient 3D Scene Understanding by CLIP](https://arxiv.org/abs/2301.04926)|[Code](https://github.com/runnanchen/CLIP2Scene)|
+|2023|arXiv|`vlm.`|CLIP-FO3D|[CLIP-FO3D: Learning Free Open-world 3D Scene Representations from 2D Dense CLIP](https://arxiv.org/abs/2303.04748)|N/A|
 
 ## Related Domains and Beyond
 
