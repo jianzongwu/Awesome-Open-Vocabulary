@@ -162,7 +162,7 @@ In this survey, we present the first detailed survey on the Open Vocabulary task
 |2023|arXiv|`vlm.`|[Open-vocabulary Panoptic Segmentation with Embedding Modulation](https://arxiv.org/abs/2303.11324)|N/A|
 
 ### Open Vocabulary Video Understanding
-
+#### Video Classification
 |Year|Venue|Keywords|Acronym|Paper Title|Code/Project|
 |:-:|:-:|:-:|:-:|-|-|
 |2021|arXiv|`vlm.`,`open.`|ActionCLIP|[ActionCLIP: A New Paradigm for Video Action Recognition](https://arxiv.org/abs/2109.08472)|[Code](https://github.com/sallymmx/ActionCLIP)|
@@ -178,6 +178,16 @@ In this survey, we present the first detailed survey on the Open Vocabulary task
 |2023|arXiv|`vlm.`,`open.`|VicTR|[VicTR: Video-conditioned Text Representations for Activity Recognition](https://arxiv.org/abs/2304.02560)|N/A|
 |2023|arXiv|`vlm.`,`open.`|MAXI|[MAtch, eXpand and Improve: Unsupervised Finetuning for Zero-Shot Action Recognition with Language Knowledge](https://arxiv.org/abs/2303.08914)|N/A|
 
+#### Tracking
+|Year|Venue|Keywords|Acronym|Paper Title|Code/Project|
+|:-:|:-:|:-:|:-:|-|-|
+|2023|CVPR|`vlm.`,`open.`|OVTrack|[OVTrack: Open-Vocabulary Multiple Object Tracking](https://arxiv.org/abs/2304.08408)|[Project](https://www.vis.xyz/pub/ovtrack/)|
+
+#### Video Instance Segmentation
+|Year|Venue|Keywords|Acronym|Paper Title|Code/Project|
+|:-:|:-:|:-:|:-:|-|-|
+|2023|arXiv|`vlm.`,`open.`|MindVLT|[Towards Open-Vocabulary Video Instance Segmentation](https://arxiv.org/abs/2304.01715)|N/A|
+|2023|arXiv|`vlm.`,`open.`|OpenVIS|[OpenVIS: Open-vocabulary Video Instance Segmentation](https://arxiv.org/abs/2305.16835)|N/A|
 
 ### Open Vocabulary 3D Scene Understanding 
 
