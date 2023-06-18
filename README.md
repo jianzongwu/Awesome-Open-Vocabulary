@@ -212,6 +212,14 @@ In this survey, we present the first detailed survey on the Open Vocabulary task
 ## Related Domains and Beyond
 
 ### Class-agnostic Detection and Segmentation
+|Year|Venue|Keywords|Acronym|Paper Title|Code/Project|
+|:-:|:-:|:-:|:-:|-|-|
+|2022|RA-L|-|OLN|[Learning Open-World Object Proposals without Learning to Classify](https://arxiv.org/abs/2108.06753)|[Code](https://github.com/mcahny/object_localization_network)|
+|2021|ICCV|-|UVO|[Unidentified Video Objects: A Benchmark for Dense, Open-World Segmentation](https://arxiv.org/abs/2104.04691)|[Project](https://sites.google.com/view/unidentified-video-object/home)|
+|2022|CVPR|-|GGN|[Open-World Instance Segmentation: Exploiting Pseudo Ground Truth From Learned Pairwise Affinity](https://arxiv.org/abs/2204.06107)|[Project](https://sites.google.com/view/generic-grouping/)|
+|2022|ECCV|-|MViT|[Class-agnostic object detection with multi-modal transformer](https://arxiv.org/abs/2111.11430)|[Code](https://git.io/J1HPY)|
+|2022|TPAMI|-|ES|[Open World Entity Segmentation](https://arxiv.org/abs/2107.14228)|[Project](http://luqi.info/Entity_Web/)|
+|2022|arXiv|-|CropFormer|[Fine-Grained Entity Segmentation](https://arxiv.org/abs/2211.05776)|[Project](http://luqi.info/entityv2.github.io/)|
 
 ### Open-World Object Detection
 
