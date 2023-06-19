@@ -246,7 +246,7 @@ In this survey, we present the first detailed survey on the Open Vocabulary task
 ### Class-agnostic Detection and Segmentation
 
 |Year|Venue|Keywords|Paper Title|Code/Project|
-|:-:|:-:|:-:|:-:|-|-|
+|:-:|:-:|:-:|-|-|
 |2022|RA-L|-|[Learning Open-World Object Proposals without Learning to Classify](https://arxiv.org/abs/2108.06753)|[Code](https://github.com/mcahny/object_localization_network)|
 |2021|ICCV|-|[Unidentified Video Objects: A Benchmark for Dense, Open-World Segmentation](https://arxiv.org/abs/2104.04691)|[Project](https://sites.google.com/view/unidentified-video-object/home)|
 |2022|CVPR|-|[Open-World Instance Segmentation: Exploiting Pseudo Ground Truth From Learned Pairwise Affinity](https://arxiv.org/abs/2204.06107)|[Project](https://sites.google.com/view/generic-grouping/)|
