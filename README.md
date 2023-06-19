@@ -22,13 +22,13 @@
     ·
     <a href="https://zhangzjn.github.io/"><strong>Jiangning Zhang</strong></a>
     ·
-    <a><strong>Yunhai Tong</strong></a>
+    <a href="https://scholar.google.com/citations?user=T4gqdPkAAAAJ&hl=zh-CN"><strong>Yunhai Tong</strong></a>
     ·
-    <a><strong>Xudong Jiang</strong></a>
+    <a href="http://scholar.google.com/citations?user=IL3mSioAAAAJ&hl=zh-CN"><strong>Xudong Jiang</strong></a>
     ·
-    <a><strong>Bernard Ghanem</strong></a>
+    <a href="https://scholar.google.com/citations?user=rVsGTeEAAAAJ&hl=zh-CN"><strong>Bernard Ghanem</strong></a>
     ·
-    <a><strong>Dacheng Tao</strong></a>
+    <a href="https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=zh-CN"><strong>Dacheng Tao</strong></a>
     ·
   </p>
 
