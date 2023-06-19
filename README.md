@@ -68,7 +68,13 @@ In this survey, we present the first detailed survey on the Open Vocabulary task
     - [Instance Segmentation](#instance-segmentation)
     - [Panoptic Segmentation](#panoptic-segmentation)
   - [Open Vocabulary Video Understanding](#open-vocabulary-video-understanding)
+    - [Video Classification](#video-classification)
+    - [Tracking](#tracking)
+    - [Video Instance Segmentation](#video-instance-segmentation)
   - [Open Vocabulary 3D Scene Understanding](#open-vocabulary-3d-scene-understanding)
+    - [3D Classification](#3d-classification)
+    - [3D Detection](#3d-detection)
+    - [3D segmentation](#3d-segmentation)
 - [Related Domains and Beyond](#related-domains-and-beyond)
   - [Class-agnostic Detection and Segmentation](#class-agnostic-detection-and-segmentation)
   - [Open-World Object Detection](#open-world-object-detection)
@@ -113,6 +119,19 @@ In this survey, we present the first detailed survey on the Open Vocabulary task
 |2022|arXiv|`vlm.`, `pl.`|[Learning Object-Language Alignments for Open-Vocabulary Object Detection](https://arxiv.org/abs/2211.14843)|[Code](https://github.com/clin1223/VLDet)|
 |2023|ICLR|`vlm.`|[F-VLM: Open-Vocabulary Object Detection upon Frozen Vision and Language Models](https://arxiv.org/abs/2209.15639)|[Code](https://github.com/google-research/google-research/tree/master/fvlm)|
 |2023|CVPR|`other.`|[Learning to Detect and Segment for Open Vocabulary Object Detection](https://arxiv.org/abs/2212.12130)|N/A|
+|2023|CVPR||[Aligning Bag of Regions for Open-Vocabulary Object Detection](https://arxiv.org/abs/2302.13996)|[Code](https://github.com/wusize/ovdet)|
+|2023|CVPR||[Object-Aware Distillation Pyramid for Open-Vocabulary Object Detection](https://arxiv.org/abs/2303.05892)|[Code](https://github.com/LutingWang/OADP)|
+|2023|CVPR||[CORA: Adapting CLIP for Open-Vocabulary Detection with Region Prompting and Anchor Pre-Matching](https://arxiv.org/abs/2303.13076)|N/A|
+|2023|CVPR||[DetCLIPv2: Scalable Open-Vocabulary Object Detection Pre-training via Word-Region Alignment](https://arxiv.org/abs/2304.04514)|N/A|
+|2023|CVPR||[Region-Aware Pretraining for Open-Vocabulary Object Detection with Vision Transformers](https://arxiv.org/abs/2305.07011)|N/A|
+|2023|ICML||[Multi-Modal Classifiers for Open-Vocabulary Object Detection](https://arxiv.org/abs/2306.05493)|[Project](https://www.robots.ox.ac.uk/~vgg/research/mm-ovod/)|
+|2023|arXiv||[Enhancing the Role of Context in Region-Word Alignment for Object Detection](https://arxiv.org/abs/2303.10093)|N/A|
+|2023|arXiv||[Open-Vocabulary Object Detection using Pseudo Caption Labels](https://arxiv.org/abs/2303.13040)|N/A|
+|2023|arXiv||[Three ways to improve feature alignment for open vocabulary detection](https://arxiv.org/abs/2303.13518)|N/A|
+|2023|arXiv||[Prompt-Guided Transformers for End-to-End Open-Vocabulary Object Detection](https://arxiv.org/abs/2303.14386)|N/A|
+|2023|arXiv||[MaMMUT: A Simple Architecture for Joint Learning for MultiModal Tasks](https://arxiv.org/abs/2303.16839)|N/A|
+|2023|arXiv||[Building One-class Detector for Anything: Open-vocabulary Zero-shot OOD Detection Using Text-image Models](https://arxiv.org/abs/2305.17207)|[Code](https://github.com/gyhandy/One-Class-Anything)|
+|2023|arXiv|`vlm.`, `cap.`, `pl.`|[Scaling Open-Vocabulary Object Detection](arxiv.org/abs/2306.09683)|N/A|
 
 ### Open Vocabulary Segmentation
 
@@ -155,7 +174,6 @@ In this survey, we present the first detailed survey on the Open Vocabulary task
 |2022|CVPR|`cap.`, `pl.`, `vlm.`|[Open-Vocabulary Instance Segmentation via Robust Cross-Modal Pseudo-Labeling](https://arxiv.org/abs/2111.12698)|[Code](https://github.com/hbdat/cvpr22_cross_modal_pseudo_labeling)|
 |2023|CVPR|`vlm`, `cap`, `w/o ps.`|[Mask-free OVIS: Open-Vocabulary Instance Segmentation without Manual Mask Annotations](https://arxiv.org/abs/2303.16891)|[Code](https://github.com/Vibashan/Maskfree-OVIS)|
 |2023|arXiv|`cap.`|[Betrayed by Captions: Joint Caption Grounding and Generation for Open Vocabulary Instance Segmentation](https://arxiv.org/abs/2301.00805)|[Code](https://github.com/jianzongwu/betrayed-by-captions)|
-|2023|arXiv|`vlm.`|[OpenVIS: Open-vocabulary Video Instance Segmentation](https://arxiv.org/abs/2305.16835)|N/A|
 
 #### Panoptic Segmentation
 
@@ -166,81 +184,92 @@ In this survey, we present the first detailed survey on the Open Vocabulary task
 |2023|arXiv|`vlm.`|[Open-vocabulary Panoptic Segmentation with Embedding Modulation](https://arxiv.org/abs/2303.11324)|N/A|
 
 ### Open Vocabulary Video Understanding
+
 #### Video Classification
-|Year|Venue|Keywords|Acronym|Paper Title|Code/Project|
-|:-:|:-:|:-:|:-:|-|-|
-|2021|arXiv|`vlm.`,`open.`|ActionCLIP|[ActionCLIP: A New Paradigm for Video Action Recognition](https://arxiv.org/abs/2109.08472)|[Code](https://github.com/sallymmx/ActionCLIP)|
-|2022|ECCV|`vlm.`,`open.`|I-VL|[Prompting Visual-Language Models for Efficient Video Understanding](https://arxiv.org/abs/2112.04478)|[Project](https://ju-chen.github.io/efficient-prompt)|
-|2022|ECCV|`vlm.`|EVL|[Frozen CLIP Models are Efficient Video Learners](https://arxiv.org/abs/2208.03550)|[Code](https://github.com/OpenGVLab/efficient-video-recognition)|
-|2022|ECCV|`vlm.`,`open.`|X-CLIP|[Expanding Language-Image Pretrained Models for General Video Recognition](https://arxiv.org/abs/2208.02816)|[Code](https://aka.ms/X-CLIP)|
-|2022|arXiv|`vlm.`,`open.`,`audio.`|MOV|[Multimodal Open-Vocabulary Video Classification via Pre-Trained Vision and Language Models](https://arxiv.org/abs/2207.07646)|N/A|
-|2023|AAAI|`vlm.`,`open.`|Text4Vis|[Revisiting Classifier: Transferring Vision-Language Models for Video Recognition](https://arxiv.org/abs/2207.01297)|[Code](https://github.com/whwu95/Text4Vis)|
-|2023|ICLR|`vlm.`|AIM|[AIM: Adapting Image Models for Efficient Video Action Recognition](https://arxiv.org/abs/2302.03024)|[Project](https://adapt-image-models.github.io/)|
-|2023|CVPR|`vlm.`,`open.`|ViFi-CLIP|[Fine-tuned CLIP Models are Efficient Video Learners](https://arxiv.org/abs/2212.03640)|[Code](https://github.com/muzairkhattak/ViFi-CLIP)|
-|2023|ICML|`vlm.`,`open.`|Open-VCLIP|[Open-VCLIP: Transforming CLIP to an Open-vocabulary Video Model via Interpolated Weight Optimization](https://arxiv.org/abs/2302.00624)|[Code](https://github.com/wengzejia1/Open-VCLIP)|
-|2023|arXiv|`vlm.`,`open.`|ASU|[Video Action Recognition with Attentive Semantic Units](https://arxiv.org/abs/2303.09756)|N/A|
-|2023|arXiv|`vlm.`,`open.`|VicTR|[VicTR: Video-conditioned Text Representations for Activity Recognition](https://arxiv.org/abs/2304.02560)|N/A|
-|2023|arXiv|`vlm.`,`open.`|MAXI|[MAtch, eXpand and Improve: Unsupervised Finetuning for Zero-Shot Action Recognition with Language Knowledge](https://arxiv.org/abs/2303.08914)|N/A|
+
+|Year|Venue|Keywords|Paper Title|Code/Project|
+|:-:|:-:|:-:|-|-|
+|2021|arXiv|`vlm.`,`open.`|[ActionCLIP: A New Paradigm for Video Action Recognition](https://arxiv.org/abs/2109.08472)|[Code](https://github.com/sallymmx/ActionCLIP)|
+|2022|ECCV|`vlm.`,`open.`|[Prompting Visual-Language Models for Efficient Video Understanding](https://arxiv.org/abs/2112.04478)|[Project](https://ju-chen.github.io/efficient-prompt)|
+|2022|ECCV|`vlm.`|[Frozen CLIP Models are Efficient Video Learners](https://arxiv.org/abs/2208.03550)|[Code](https://github.com/OpenGVLab/efficient-video-recognition)|
+|2022|ECCV|`vlm.`,`open.`|[Expanding Language-Image Pretrained Models for General Video Recognition](https://arxiv.org/abs/2208.02816)|[Code](https://aka.ms/X-CLIP)|
+|2022|arXiv|`vlm.`,`open.`,`audio.`|[Multimodal Open-Vocabulary Video Classification via Pre-Trained Vision and Language Models](https://arxiv.org/abs/2207.07646)|N/A|
+|2023|AAAI|`vlm.`,`open.`|[Revisiting Classifier: Transferring Vision-Language Models for Video Recognition](https://arxiv.org/abs/2207.01297)|[Code](https://github.com/whwu95/Text4Vis)|
+|2023|ICLR|`vlm.`|[AIM: Adapting Image Models for Efficient Video Action Recognition](https://arxiv.org/abs/2302.03024)|[Project](https://adapt-image-models.github.io/)|
+|2023|CVPR|`vlm.`,`open.`|[Fine-tuned CLIP Models are Efficient Video Learners](https://arxiv.org/abs/2212.03640)|[Code](https://github.com/muzairkhattak/ViFi-CLIP)|
+|2023|ICML|`vlm.`,`open.`|[Open-VCLIP: Transforming CLIP to an Open-vocabulary Video Model via Interpolated Weight Optimization](https://arxiv.org/abs/2302.00624)|[Code](https://github.com/wengzejia1/Open-VCLIP)|
+|2023|arXiv|`vlm.`,`open.`|[Video Action Recognition with Attentive Semantic Units](https://arxiv.org/abs/2303.09756)|N/A|
+|2023|arXiv|`vlm.`,`open.`|[VicTR: Video-conditioned Text Representations for Activity Recognition](https://arxiv.org/abs/2304.02560)|N/A|
+|2023|arXiv|`vlm.`,`open.`|[MAtch, eXpand and Improve: Unsupervised Finetuning for Zero-Shot Action Recognition with Language Knowledge](https://arxiv.org/abs/2303.08914)|N/A|
 
 #### Tracking
-|Year|Venue|Keywords|Acronym|Paper Title|Code/Project|
-|:-:|:-:|:-:|:-:|-|-|
-|2023|CVPR|`vlm.`,`open.`|OVTrack|[OVTrack: Open-Vocabulary Multiple Object Tracking](https://arxiv.org/abs/2304.08408)|[Project](https://www.vis.xyz/pub/ovtrack/)|
+
+|Year|Venue|Keywords|Paper Title|Code/Project|
+|:-:|:-:|:-:|-|-|
+|2023|CVPR|`vlm.`,`open.`|[OVTrack: Open-Vocabulary Multiple Object Tracking](https://arxiv.org/abs/2304.08408)|[Project](https://www.vis.xyz/pub/ovtrack/)|
 
 #### Video Instance Segmentation
-|Year|Venue|Keywords|Acronym|Paper Title|Code/Project|
-|:-:|:-:|:-:|:-:|-|-|
-|2023|arXiv|`vlm.`,`open.`|MindVLT|[Towards Open-Vocabulary Video Instance Segmentation](https://arxiv.org/abs/2304.01715)|N/A|
-|2023|arXiv|`vlm.`,`open.`|OpenVIS|[OpenVIS: Open-vocabulary Video Instance Segmentation](https://arxiv.org/abs/2305.16835)|N/A|
+
+|Year|Venue|Keywords|Paper Title|Code/Project|
+|:-:|:-:|:-:|-|-|
+|2023|arXiv|`vlm.`,`open.`|[Towards Open-Vocabulary Video Instance Segmentation](https://arxiv.org/abs/2304.01715)|N/A|
+|2023|arXiv|`vlm.`,`open.`|[OpenVIS: Open-vocabulary Video Instance Segmentation](https://arxiv.org/abs/2305.16835)|N/A|
 
 ### Open Vocabulary 3D Scene Understanding
+
 #### 3D Classification
-|Year|Venue|Keywords|Acronym|Paper Title|Code/Project|
-|:-:|:-:|:-:|:-:|-|-|
-|2022|CVPR|`vlm.`|PointCLIP|[PointCLIP: Point Cloud Understanding by CLIP](https://arxiv.org/abs/2112.02413)|[Code](https://github.com/ZrrSkywalker/PointCLIP)|
-|2022|arXiv|`vlm.`|CLIP2Point|[CLIP2Point: Transfer CLIP to Point Cloud Classification with Image-Depth Pre-training](https://arxiv.org/abs/2210.01055)|[Code](https://github.com/tyhuang0428/CLIP2Point)|
-|2022|arXiv|`vlm.`|PointCLIPV2|[PointCLIP V2: Adapting CLIP for Powerful 3D Open-world Learning](https://arxiv.org/abs/2211.11682)|[Code](https://github.com/yangyangyang127/PointCLIP_V2)|
-|2022|arXiv|`vlm.`|LidarCLIP|[LidarCLIP or: How I Learned to Talk to Point Clouds](https://arxiv.org/abs/2212.06858)|[Code](https://github.com/atonderski/lidarclip)|
-|2023|CVPR|`vlm.`|ULIP|[ULIP: Learning a Unified Representation of Language, Images, and Point Clouds for 3D Understanding](https://arxiv.org/abs/2212.05171)|[Code](https://github.com/salesforce/ULIP)|
+
+|Year|Venue|Keywords|Paper Title|Code/Project|
+|:-:|:-:|:-:|-|-|
+|2022|CVPR|`vlm.`|[PointCLIP: Point Cloud Understanding by CLIP](https://arxiv.org/abs/2112.02413)|[Code](https://github.com/ZrrSkywalker/PointCLIP)|
+|2022|arXiv|`vlm.`|[CLIP2Point: Transfer CLIP to Point Cloud Classification with Image-Depth Pre-training](https://arxiv.org/abs/2210.01055)|[Code](https://github.com/tyhuang0428/CLIP2Point)|
+|2022|arXiv|`vlm.`|[PointCLIP V2: Adapting CLIP for Powerful 3D Open-world Learning](https://arxiv.org/abs/2211.11682)|[Code](https://github.com/yangyangyang127/PointCLIP_V2)|
+|2022|arXiv|`vlm.`|[LidarCLIP or: How I Learned to Talk to Point Clouds](https://arxiv.org/abs/2212.06858)|[Code](https://github.com/atonderski/lidarclip)|
+|2023|CVPR|`vlm.`|[ULIP: Learning a Unified Representation of Language, Images, and Point Clouds for 3D Understanding](https://arxiv.org/abs/2212.05171)|[Code](https://github.com/salesforce/ULIP)|
+
 #### 3D Detection
-|Year|Venue|Keywords|Acronym|Paper Title|Code/Project|
-|:-:|:-:|:-:|:-:|-|-|
-|2022|arXiv|`vlm.`|OV-3DETIC|[Open-Vocabulary 3D Detection via Image-level Class and Debiased Cross-modal Contrastive Learning](https://arxiv.org/abs/2207.01987)|N/A|
+
+|Year|Venue|Keywords|Paper Title|Code/Project|
+|:-:|:-:|:-:|-|-|
+|2022|arXiv|`vlm.`|[Open-Vocabulary 3D Detection via Image-level Class and Debiased Cross-modal Contrastive Learning](https://arxiv.org/abs/2207.01987)|N/A|
+
 #### 3D segmentation
-|Year|Venue|Keywords|Acronym|Paper Title|Code/Project|
-|:-:|:-:|:-:|:-:|-|-|
-|2023|CVPR|`vlm.`|PLA|[PLA: Language-Driven Open-Vocabulary 3D Scene Understanding](https://arxiv.org/abs/2211.16312)|[Code](https://dingry.github.io/projects/PLA)|
-|2023|CVPR|`vlm.`|CLIP2Scene|[CLIP2Scene: Towards Label-efficient 3D Scene Understanding by CLIP](https://arxiv.org/abs/2301.04926)|[Code](https://github.com/runnanchen/CLIP2Scene)|
-|2023|arXiv|`vlm.`|CLIP-FO3D|[CLIP-FO3D: Learning Free Open-world 3D Scene Representations from 2D Dense CLIP](https://arxiv.org/abs/2303.04748)|N/A|
+
+|Year|Venue|Keywords|Paper Title|Code/Project|
+|:-:|:-:|:-:|-|-|
+|2023|CVPR|`vlm.`|[PLA: Language-Driven Open-Vocabulary 3D Scene Understanding](https://arxiv.org/abs/2211.16312)|[Code](https://dingry.github.io/projects/PLA)|
+|2023|CVPR|`vlm.`|[CLIP2Scene: Towards Label-efficient 3D Scene Understanding by CLIP](https://arxiv.org/abs/2301.04926)|[Code](https://github.com/runnanchen/CLIP2Scene)|
+|2023|arXiv|`vlm.`|[CLIP-FO3D: Learning Free Open-world 3D Scene Representations from 2D Dense CLIP](https://arxiv.org/abs/2303.04748)|N/A|
 
 ## Related Domains and Beyond
 
 ### Class-agnostic Detection and Segmentation
-|Year|Venue|Keywords|Acronym|Paper Title|Code/Project|
+
+|Year|Venue|Keywords|Paper Title|Code/Project|
 |:-:|:-:|:-:|:-:|-|-|
-|2022|RA-L|-|OLN|[Learning Open-World Object Proposals without Learning to Classify](https://arxiv.org/abs/2108.06753)|[Code](https://github.com/mcahny/object_localization_network)|
-|2021|ICCV|-|UVO|[Unidentified Video Objects: A Benchmark for Dense, Open-World Segmentation](https://arxiv.org/abs/2104.04691)|[Project](https://sites.google.com/view/unidentified-video-object/home)|
-|2022|CVPR|-|GGN|[Open-World Instance Segmentation: Exploiting Pseudo Ground Truth From Learned Pairwise Affinity](https://arxiv.org/abs/2204.06107)|[Project](https://sites.google.com/view/generic-grouping/)|
-|2022|ECCV|-|MViT|[Class-agnostic object detection with multi-modal transformer](https://arxiv.org/abs/2111.11430)|[Code](https://git.io/J1HPY)|
-|2022|TPAMI|-|ES|[Open World Entity Segmentation](https://arxiv.org/abs/2107.14228)|[Project](http://luqi.info/Entity_Web/)|
-|2022|arXiv|-|CropFormer|[Fine-Grained Entity Segmentation](https://arxiv.org/abs/2211.05776)|[Project](http://luqi.info/entityv2.github.io/)|
+|2022|RA-L|-|[Learning Open-World Object Proposals without Learning to Classify](https://arxiv.org/abs/2108.06753)|[Code](https://github.com/mcahny/object_localization_network)|
+|2021|ICCV|-|[Unidentified Video Objects: A Benchmark for Dense, Open-World Segmentation](https://arxiv.org/abs/2104.04691)|[Project](https://sites.google.com/view/unidentified-video-object/home)|
+|2022|CVPR|-|[Open-World Instance Segmentation: Exploiting Pseudo Ground Truth From Learned Pairwise Affinity](https://arxiv.org/abs/2204.06107)|[Project](https://sites.google.com/view/generic-grouping/)|
+|2022|ECCV|-|[Class-agnostic object detection with multi-modal transformer](https://arxiv.org/abs/2111.11430)|[Code](https://git.io/J1HPY)|
+|2022|TPAMI|-|[Open World Entity Segmentation](https://arxiv.org/abs/2107.14228)|[Project](http://luqi.info/Entity_Web/)|
+|2022|arXiv|-|[Fine-Grained Entity Segmentation](https://arxiv.org/abs/2211.05776)|[Project](http://luqi.info/entityv2.github.io/)|
 
 ### Open-World Object Detection
 
-|Year|Venue|Paper Title|
-|:-:|:-:|-|
-|2015|CVPR|[Towards Open World Recognition](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Bendale_Towards_Open_World_2015_CVPR_paper.html)|
-|2021|CVPR|[Towards Open World Object Detection.](https://arxiv.com/abs/2103.02603)|
-|2022|CVPR|[OW-DETR: Open-world Detection Transformer](https://arxiv.org/abs/2112.01513)|
-|2022|ECCV|[UC-OWOD: Unknown-Classified Open World Object Detection](https://arxiv.com/abs/2207.11455)|
-|2022|arXiv|[Revisiting Open World Object Detection](https://arxiv.org/abs/2201.00471)|
-|2022|arXiv|[Rectifying Open-set Object Detection: A Taxonomy, Practical Applications, and Proper Evaluation](https://arxiv.org/abs/2207.09775)|
-|2022|arXiv|[Open World DETR: Transformer based Open World Object Detection](https://arxiv.org/abs/2212.02969)|
-|2022|arXiv|[PROB: Probabilistic Objectness for Open World Object Detection](https://arxiv.org/abs/2212.01424)|
+|Year|Venue|Keywords|Paper Title|Code/Project|
+|:-:|:-:|:-:|-|-|
+|2015|CVPR|-|[Towards Open World Recognition](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Bendale_Towards_Open_World_2015_CVPR_paper.html)|N/A|
+|2021|CVPR|-|[Towards Open World Object Detection.](https://arxiv.com/abs/2103.02603)|[Code](https://github.com/JosephKJ/OWOD)|
+|2022|CVPR|-|[OW-DETR: Open-world Detection Transformer](https://arxiv.org/abs/2112.01513)|[Code](https://github.com/akshitac8/OW-DETR)|
+|2022|ECCV|-|[UC-OWOD: Unknown-Classified Open World Object Detection](https://arxiv.com/abs/2207.11455)|[Code](https://github.com/JohnWuzh/UC-OWOD)|
+|2022|arXiv|-|[Revisiting Open World Object Detection](https://arxiv.org/abs/2201.00471)|[Code](https://github.com/RE-OWOD/RE-OWOD)|
+|2022|arXiv|-|[Rectifying Open-set Object Detection: A Taxonomy, Practical Applications, and Proper Evaluation](https://arxiv.org/abs/2207.09775)|[N/A]
+|2022|arXiv|-|[Open World DETR: Transformer based Open World Object Detection](https://arxiv.org/abs/2212.02969)|N/A|
+|2022|arXiv|-|[PROB: Probabilistic Objectness for Open World Object Detection](https://arxiv.org/abs/2212.01424)|[Code](https://github.com/orrzohar/PROB)|
 
 ### Open-Set Panoptic Segmentation
 
-|Year|Venue|Paper Title|
-|:-:|:-:|-|
-|2021|CVPR|[Exemplar-Based Open-Set Panoptic Segmentation Network](https://arxiv.org/abs/2105.08336)|
-|2022|arXiv|[Dual Decision Improves Open-Set Panoptic Segmentation](https://arxiv.org/abs/2207.02504)|
+|Year|Venue|Keywords|Paper Title|Code/Project|
+|:-:|:-:|:-:|-|-|
+|2021|CVPR|-|[Exemplar-Based Open-Set Panoptic Segmentation Network](https://arxiv.org/abs/2105.08336)|[Project](https://cv.snu.ac.kr/research/EOPSN/)|
+|2022|arXiv|-|[Dual Decision Improves Open-Set Panoptic Segmentation](https://arxiv.org/abs/2207.02504)|[Code](https://github.com/HeimingX/OPS_dual_decision)|
