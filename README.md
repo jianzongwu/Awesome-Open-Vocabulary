@@ -6,13 +6,13 @@
   <p align="center">
     arXiv, 2023
     <br />
-    <a href="https://jianzongwu.github.io/"><strong>Jianzong Wu</strong></a>
+    <a href="https://jianzongwu.github.io/"><strong>Jianzong Wu <sup>*</sup></strong></a>
     .
-    <a href="https://lxtgh.github.io/"><strong>Xiangtai Li</strong></a>
+    <a href="https://lxtgh.github.io/"><strong> Xiangtai Li <sup>*, project leader</sup> </strong></a>
     ·
-    <a href="https://xushilin1.github.io/"><strong>Shilin Xu</strong></a>
+    <a href="https://xushilin1.github.io/"><strong>Shilin Xu  <sup>*</sup></strong></a>
     ·
-    <a href="https://yuanhaobo.me/"><strong>Haobo Yuan</strong></a>
+    <a href="https://yuanhaobo.me/"><strong>Haobo Yuan  <sup>*</sup></strong></a>
     ·
     <a href="https://henghuiding.github.io/"><strong>Henghui Ding</strong></a>
     ·
