@@ -39,13 +39,17 @@
   </p>
 <br />
 
-This repo is used for recording, tracking and benchmarking several recent open vocabulary methods, as a supplement for our [survey]().  
-If you find any work missing or have any suggestions (papers, implementations and other resources), feel free to [pull requests](https://github.com/jianzongwu/Awesome-Open-Vocabulary/pulls).
-We will add the missing papers in this repo ASAP.
+This repo is used for recording, tracking, and benchmarking several recent open vocabulary methods as a supplement for our [survey]().  
+If you find any work missing or have any suggestions (papers, implementations, and other resources), feel free to [pull requests](https://github.com/jianzongwu/Awesome-Open-Vocabulary/pulls).
+We will add the missing papers to this repo ASAP.
 
 ### 🔥Highlight!!
 
-[1] 
+[1]  The first survey for open vocabulary learning, including open vocabulary detection/segmentation/tracking.
+
+[2]  It also contains several related domains, including foundation model tuning and open-world detection. 
+
+[3]  We list detailed results for the most representative works.
 
 ## Introduction
 
