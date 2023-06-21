@@ -232,6 +232,7 @@ In this survey, we present the first detailed survey on the Open Vocabulary task
 |Year|Venue|Keywords|Paper Title|Code/Project|
 |:-:|:-:|:-:|-|-|
 |2022|arXiv|`vlm.`|[Open-Vocabulary 3D Detection via Image-level Class and Debiased Cross-modal Contrastive Learning](https://arxiv.org/abs/2207.01987)|N/A|
+|2023|CVPR|`vlm.`|[Open-Vocabulary Point-Cloud Object Detection without 3D Annotation](https://arxiv.org/abs/2304.00788v1)|[Code](https://github.com/lyhdet/OV-3DET)|
 
 #### 3D segmentation
 
