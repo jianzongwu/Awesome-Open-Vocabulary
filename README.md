@@ -8,7 +8,7 @@
     <br />
     <a href="https://jianzongwu.github.io/"><strong>Jianzong Wu <sup>*</sup></strong></a>
     .
-    <a href="https://lxtgh.github.io/"><strong> Xiangtai Li <sup>*, project leader</sup> </strong></a>
+    <a href="https://lxtgh.github.io/"><strong> Xiangtai Li <sup>*</sup> </strong></a>
     ·
     <a href="https://xushilin1.github.io/"><strong>Shilin Xu  <sup>*</sup></strong></a>
     ·
