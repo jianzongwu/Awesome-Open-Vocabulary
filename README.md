@@ -118,18 +118,18 @@ In this survey, we present the first detailed survey on the Open Vocabulary task
 |2022|arXiv|`vlm.`, `pl.`|[P3OVD: Fine-grained Visual-Text Prompt-Driven Self-Training for Open-Vocabulary Object Detection](https://arxiv.org/abs/2211.00849)|N/A|
 |2022|arXiv|`vlm.`, `pl.`|[Learning Object-Language Alignments for Open-Vocabulary Object Detection](https://arxiv.org/abs/2211.14843)|[Code](https://github.com/clin1223/VLDet)|
 |2023|ICLR|`vlm.`|[F-VLM: Open-Vocabulary Object Detection upon Frozen Vision and Language Models](https://arxiv.org/abs/2209.15639)|[Code](https://github.com/google-research/google-research/tree/master/fvlm)|
-|2023|CVPR|`other.`|[Learning to Detect and Segment for Open Vocabulary Object Detection](https://arxiv.org/abs/2212.12130)|N/A|
-|2023|CVPR||[Aligning Bag of Regions for Open-Vocabulary Object Detection](https://arxiv.org/abs/2302.13996)|[Code](https://github.com/wusize/ovdet)|
-|2023|CVPR||[Object-Aware Distillation Pyramid for Open-Vocabulary Object Detection](https://arxiv.org/abs/2303.05892)|[Code](https://github.com/LutingWang/OADP)|
-|2023|CVPR||[CORA: Adapting CLIP for Open-Vocabulary Detection with Region Prompting and Anchor Pre-Matching](https://arxiv.org/abs/2303.13076)|N/A|
-|2023|CVPR||[DetCLIPv2: Scalable Open-Vocabulary Object Detection Pre-training via Word-Region Alignment](https://arxiv.org/abs/2304.04514)|N/A|
-|2023|CVPR||[Region-Aware Pretraining for Open-Vocabulary Object Detection with Vision Transformers](https://arxiv.org/abs/2305.07011)|N/A|
-|2023|ICML||[Multi-Modal Classifiers for Open-Vocabulary Object Detection](https://arxiv.org/abs/2306.05493)|[Project](https://www.robots.ox.ac.uk/~vgg/research/mm-ovod/)|
-|2023|arXiv||[Enhancing the Role of Context in Region-Word Alignment for Object Detection](https://arxiv.org/abs/2303.10093)|N/A|
-|2023|arXiv||[Open-Vocabulary Object Detection using Pseudo Caption Labels](https://arxiv.org/abs/2303.13040)|N/A|
-|2023|arXiv||[Three ways to improve feature alignment for open vocabulary detection](https://arxiv.org/abs/2303.13518)|N/A|
-|2023|arXiv||[Prompt-Guided Transformers for End-to-End Open-Vocabulary Object Detection](https://arxiv.org/abs/2303.14386)|N/A|
-|2023|arXiv||[MaMMUT: A Simple Architecture for Joint Learning for MultiModal Tasks](https://arxiv.org/abs/2303.16839)|N/A|
+|2023|CVPR|`other.`, `vlm.` |[Learning to Detect and Segment for Open Vocabulary Object Detection](https://arxiv.org/abs/2212.12130)|N/A|
+|2023|CVPR|`vlm.`, `cap.`|[Aligning Bag of Regions for Open-Vocabulary Object Detection](https://arxiv.org/abs/2302.13996)|[Code](https://github.com/wusize/ovdet)|
+|2023|CVPR|`vlm.`|[Object-Aware Distillation Pyramid for Open-Vocabulary Object Detection](https://arxiv.org/abs/2303.05892)|[Code](https://github.com/LutingWang/OADP)|
+|2023|CVPR|`vlm.`|[CORA: Adapting CLIP for Open-Vocabulary Detection with Region Prompting and Anchor Pre-Matching](https://arxiv.org/abs/2303.13076)|N/A|
+|2023|CVPR|`vlm.`, `pl.`|[DetCLIPv2: Scalable Open-Vocabulary Object Detection Pre-training via Word-Region Alignment](https://arxiv.org/abs/2304.04514)|N/A|
+|2023|CVPR|`vlm.`|[Region-Aware Pretraining for Open-Vocabulary Object Detection with Vision Transformers](https://arxiv.org/abs/2305.07011)|N/A|
+|2023|ICML|`vlm.`|[Multi-Modal Classifiers for Open-Vocabulary Object Detection](https://arxiv.org/abs/2306.05493)|[Project](https://www.robots.ox.ac.uk/~vgg/research/mm-ovod/)|
+|2023|arXiv|`vlm.`, `cap.`|[Enhancing the Role of Context in Region-Word Alignment for Object Detection](https://arxiv.org/abs/2303.10093)|N/A|
+|2023|arXiv|`cap.`, `pl.`|[Open-Vocabulary Object Detection using Pseudo Caption Labels](https://arxiv.org/abs/2303.13040)|N/A|
+|2023|arXiv|`vlm.`, `pl.`|[Three ways to improve feature alignment for open vocabulary detection](https://arxiv.org/abs/2303.13518)|N/A|
+|2023|arXiv|`vlm.`|[Prompt-Guided Transformers for End-to-End Open-Vocabulary Object Detection](https://arxiv.org/abs/2303.14386)|N/A|
+|2023|arXiv|`vlm.`, `cap.`, `pl.`|[MaMMUT: A Simple Architecture for Joint Learning for MultiModal Tasks](https://arxiv.org/abs/2303.16839)|N/A|
 |2023|arXiv|`vlm.`, `cap.`, `pl.`|[Scaling Open-Vocabulary Object Detection](arxiv.org/abs/2306.09683)|N/A|
 
 ### Open Vocabulary Segmentation
@@ -241,6 +241,7 @@ In this survey, we present the first detailed survey on the Open Vocabulary task
 |2023|CVPR|`vlm.`|[PLA: Language-Driven Open-Vocabulary 3D Scene Understanding](https://arxiv.org/abs/2211.16312)|[Code](https://dingry.github.io/projects/PLA)|
 |2023|CVPR|`vlm.`|[CLIP2Scene: Towards Label-efficient 3D Scene Understanding by CLIP](https://arxiv.org/abs/2301.04926)|[Code](https://github.com/runnanchen/CLIP2Scene)|
 |2023|arXiv|`vlm.`|[CLIP-FO3D: Learning Free Open-world 3D Scene Representations from 2D Dense CLIP](https://arxiv.org/abs/2303.04748)|N/A|
+|2023|arXiv|`vlm.`|[OpenMask3D: Open-Vocabulary 3D Instance Segmentation](https://arxiv.org/abs/2306.13631)|[Project](https://openmask3d.github.io/)|
 
 ## Related Domains and Beyond
 
