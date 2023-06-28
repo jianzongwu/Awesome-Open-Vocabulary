@@ -1,15 +1,13 @@
 ## Datasets & Benchmarks
 
 ### Detection
+> The standard OV-Det use OV-COCO and OV-LVIS datasets for training and evaluation. The detectors are trained on base classes and test both base and novel classes for evaluation.
 
 |Datasets|base|novel|Tasks|
 |-|-|-|-|
 |COCO OVD|48|17|`det.`|
 |LVIS OVD|866|337|`det.`|
-|PASCAL VOC|-|20|`det.`|
-|Objects365|-|365|`det.`|
-|LVIS|-|1,203|`det.`|
-|OpenImages|-|500|`det.`|
+
 
 ### Segmentation
 
