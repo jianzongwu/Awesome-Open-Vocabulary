@@ -134,8 +134,8 @@ In this survey, we present the first detailed survey on the Open Vocabulary task
 
 ### Open Vocabulary Segmentation
 
-|Year|Venue|Keywords|Paper Title|Code/Project|
-|:-:|:-:|:-:|-|-|
+|Year|Venue|Keywords|Paper Title|Code/Project| 
+|:-:|:-:|:-:|-|-| 
 |2023|CVPR|`unify.`, `vlm.` |[FreeSeg: Unified, Universal and Open-Vocabulary Image Segmentation](https://arxiv.org/abs/2303.17225)|[Code](https://github.com/bytedance/FreeSeg)|
 
 #### Semantic Segmentation
@@ -242,6 +242,13 @@ In this survey, we present the first detailed survey on the Open Vocabulary task
 |2023|CVPR|`vlm.`|[CLIP2Scene: Towards Label-efficient 3D Scene Understanding by CLIP](https://arxiv.org/abs/2301.04926)|[Code](https://github.com/runnanchen/CLIP2Scene)|
 |2023|arXiv|`vlm.`|[CLIP-FO3D: Learning Free Open-world 3D Scene Representations from 2D Dense CLIP](https://arxiv.org/abs/2303.04748)|N/A|
 |2023|arXiv|`vlm.`|[OpenMask3D: Open-Vocabulary 3D Instance Segmentation](https://arxiv.org/abs/2306.13631)|[Project](https://openmask3d.github.io/)|
+
+
+### Open Vocabulary Relation Detection
+|Year|Venue|Keywords|Paper Title|Code/Project| 
+|:-:|:-:|:-:|-|-|
+|2022|NeurIPS|`pre.`|[RLIP: Relational Language-Image Pre-training for Human-Object Interaction Detection](https://arxiv.org/abs/2209.01814)|[Code](https://github.com/JacobYuan7/RLIP)| 
+|2023|ICLR|`vlm.`|[Compositional Prompt Tuning with Motion Cues for Open-vocabulary Video Relation Detection](https://arxiv.org/abs/2302.00268)|[Code](https://github.com/Dawn-LX/OpenVoc-VidVRD)| 
 
 ## Related Domains and Beyond
 
