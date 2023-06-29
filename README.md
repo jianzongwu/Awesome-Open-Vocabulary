@@ -136,6 +136,7 @@ In this survey, we present the first detailed survey on the Open Vocabulary task
 
 |Year|Venue|Keywords|Paper Title|Code/Project|
 |:-:|:-:|:-:|-|-|
+|2023|CVPR|`unify.`, `vlm.` |[Primitive Generation and Semantic-related Alignment for Universal Zero-Shot Segmentation](https://henghuiding.github.io/PADing/)|[Code](https://github.com/heshuting555/PADing)|
 |2023|CVPR|`unify.`, `vlm.` |[FreeSeg: Unified, Universal and Open-Vocabulary Image Segmentation](https://arxiv.org/abs/2303.17225)|[Code](https://github.com/bytedance/FreeSeg)|
 
 #### Semantic Segmentation
@@ -171,6 +172,7 @@ In this survey, we present the first detailed survey on the Open Vocabulary task
 
 |Year|Venue|Keywords|Paper Title|Code/Project|
 |:-:|:-:|:-:|-|-|
+|2023|CVPR|`vlm.`|[Semantic-Promoted Debiasing and Background Disambiguation for Zero-Shot Instance Segmentation](https://henghuiding.github.io/D2Zero/)|[Code](https://github.com/heshuting555/D2Zero)|
 |2022|CVPR|`cap.`, `pl.`, `vlm.`|[Open-Vocabulary Instance Segmentation via Robust Cross-Modal Pseudo-Labeling](https://arxiv.org/abs/2111.12698)|[Code](https://github.com/hbdat/cvpr22_cross_modal_pseudo_labeling)|
 |2023|CVPR|`vlm`, `cap`, `w/o ps.`|[Mask-free OVIS: Open-Vocabulary Instance Segmentation without Manual Mask Annotations](https://arxiv.org/abs/2303.16891)|[Code](https://github.com/Vibashan/Maskfree-OVIS)|
 |2023|arXiv|`cap.`|[Betrayed by Captions: Joint Caption Grounding and Generation for Open Vocabulary Instance Segmentation](https://arxiv.org/abs/2301.00805)|[Code](https://github.com/jianzongwu/betrayed-by-captions)|
@@ -179,6 +181,7 @@ In this survey, we present the first detailed survey on the Open Vocabulary task
 
 |Year|Venue|Keywords|Paper Title|Code/Project|
 |:-:|:-:|:-:|-|-|
+|2023|CVPR|`unify.`, `vlm.` |[Primitive Generation and Semantic-related Alignment for Universal Zero-Shot Segmentation](https://henghuiding.github.io/PADing/)|[Code](https://github.com/heshuting555/PADing)|
 |2022|arXiv|`vlm`|[Open-Vocabulary Panoptic Segmentation with MaskCLIP](https://arxiv.org/abs/2208.08984)|N/A|
 |2023|CVPR|`diff`, `vlm`|[Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models](https://arxiv.org/abs/2303.04803)|[Code](https://github.com/NVlabs/ODISE)|
 |2023|arXiv|`vlm.`|[Open-vocabulary Panoptic Segmentation with Embedding Modulation](https://arxiv.org/abs/2303.11324)|N/A|
