@@ -55,7 +55,7 @@ We will add the missing papers to this repo ASAP.
 
 In this survey, we present the first detailed survey on the Open Vocabulary tasks, including open vocabulary object detection, open vocabulary segmentation and 3D/video open vocabulary tasks.
 
-![Alt Text](figs/timeline-paper.jpg)
+![Alt Text](figs/timeline.jpg)
 
 ## Summary of Contents
 
