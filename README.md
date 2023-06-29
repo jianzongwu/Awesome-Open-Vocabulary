@@ -147,8 +147,8 @@ In this survey, we present the first detailed survey on the Open Vocabulary task
 |2022|CVPR|`cap.`, `w/o ps.`|[GroupViT: Semantic Segmentation Emerges from Text Supervision](https://arxiv.org/abs/2202.11094)|[Code](https://github.com/NVlabs/GroupViT)|
 |2022|CVPR|`vlm.`|[ZegFormer: Decoupling Zero-Shot Semantic Segmentation](https://arxiv.org/abs/2112.07910)|[Code](https://github.com/dingjiansw101/ZegFormer)|
 |2022|ECCV|`cap.`, `vlm.`|[Scaling Open-Vocabulary Image Segmentation with Image-Level Labels](https://arxiv.org/abs/2112.12143)|N/A|
-|2022|ECCV|`cap.`, `vlm.`|[Grounded Language-Image Pre-training](https://arxiv.org/pdf/2112.03857.pdf)|[[Code](https://github.com/microsoft/GLIP)]|
-|2022|ECCV|`cap.`, `vlm.`|[GLIPv2: Unifying Localization and VL Understanding](https://arxiv.org/pdf/2206.05836.pdf)|[Code](https://github.com/microsoft/GLIP)]|
+|2022|CVPR|`cap.`, `vlm.`|[Grounded Language-Image Pre-training](https://arxiv.org/pdf/2112.03857.pdf)|[[Code](https://github.com/microsoft/GLIP)]|
+|2022|NeurIPS|`cap.`, `vlm.`|[GLIPv2: Unifying Localization and VL Understanding](https://arxiv.org/pdf/2206.05836.pdf)|[Code](https://github.com/microsoft/GLIP)]|
 |2022|ECCV|`vlm`, `pl`, `w/o ps.`|[Extract Free Dense Labels from CLIP](https://arxiv.org/abs/2112.01071)|[Code](https://github.com/chongzhou96/MaskCLIP)|
 |2022|ECCV|`vlm.`|[A Simple Baseline for Open-Vocabulary Semantic Segmentation with Pre-trained Vision-Language Model](https://arxiv.org/abs/2112.14757)|[Code](https://github.com/MendelXu/zsseg.baseline)|
 |2022|ECCV|`vlm.`, `cap.`, `w/o ps.`|[Open-world Semantic Segmentation via Contrasting and Clustering Vision-Language Embedding](https://arxiv.org/abs/2207.08455)|N/A|
