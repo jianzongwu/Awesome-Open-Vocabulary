@@ -79,6 +79,8 @@ In this survey, we present the first detailed survey on the Open Vocabulary task
   - [Class-agnostic Detection and Segmentation](#class-agnostic-detection-and-segmentation)
   - [Open-World Object Detection](#open-world-object-detection)
   - [Open-Set Panoptic Segmentation](#open-set-panoptic-segmentation)
+- [Acknowledgement](#acknowledgement)
+- [Contact](#contact)
 
 ## Methods: A Survey
 
@@ -280,3 +282,28 @@ In this survey, we present the first detailed survey on the Open Vocabulary task
 |:-:|:-:|:-:|-|-|
 |2021|CVPR|-|[Exemplar-Based Open-Set Panoptic Segmentation Network](https://arxiv.org/abs/2105.08336)|[Project](https://cv.snu.ac.kr/research/EOPSN/)|
 |2022|arXiv|-|[Dual Decision Improves Open-Set Panoptic Segmentation](https://arxiv.org/abs/2207.02504)|[Code](https://github.com/HeimingX/OPS_dual_decision)|
+
+## Acknowledgement
+
+If you find our survey and repository useful for your research project, please consider citing our paper:
+
+```bibtex
+@article{wu2023open,
+      title={Towards Open Vocabulary Learning: A Survey}, 
+      author={Jianzong Wu and Xiangtai Li and Shilin Xu and Haobo Yuan and Henghui Ding and Yibo Yang and Xia Li and Jiangning Zhang and Yunhai Tong and Xudong Jiang and Bernard Ghanem and Dacheng Tao},
+      year={2023},
+      journal={arXiv pre-print},
+}
+```
+
+## Contact
+
+```
+jzwu@stu.pku.edu.cn
+```
+```
+xiangtai.li@ntu.edu.sg 
+```
+```
+lxtpku@pku.edu.cn
+```
