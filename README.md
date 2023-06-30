@@ -55,7 +55,7 @@ We will add the missing papers to this repo ASAP.
 
 In this survey, we present the first detailed survey on the Open Vocabulary tasks, including open vocabulary object detection, open vocabulary segmentation and 3D/video open vocabulary tasks.
 
-![Alt Text](figs/timeline-paper.jpg)
+![Alt Text](figs/timeline.jpg)
 
 ## Summary of Contents
 
@@ -136,6 +136,7 @@ In this survey, we present the first detailed survey on the Open Vocabulary task
 
 |Year|Venue|Keywords|Paper Title|Code/Project|
 |:-:|:-:|:-:|-|-|
+|2023|CVPR|`unify.`, `vlm.` |[Primitive Generation and Semantic-related Alignment for Universal Zero-Shot Segmentation](https://henghuiding.github.io/PADing/)|[Code](https://github.com/heshuting555/PADing)|
 |2023|CVPR|`unify.`, `vlm.` |[FreeSeg: Unified, Universal and Open-Vocabulary Image Segmentation](https://arxiv.org/abs/2303.17225)|[Code](https://github.com/bytedance/FreeSeg)|
 
 #### Semantic Segmentation
@@ -146,6 +147,8 @@ In this survey, we present the first detailed survey on the Open Vocabulary task
 |2022|CVPR|`cap.`, `w/o ps.`|[GroupViT: Semantic Segmentation Emerges from Text Supervision](https://arxiv.org/abs/2202.11094)|[Code](https://github.com/NVlabs/GroupViT)|
 |2022|CVPR|`vlm.`|[ZegFormer: Decoupling Zero-Shot Semantic Segmentation](https://arxiv.org/abs/2112.07910)|[Code](https://github.com/dingjiansw101/ZegFormer)|
 |2022|ECCV|`cap.`, `vlm.`|[Scaling Open-Vocabulary Image Segmentation with Image-Level Labels](https://arxiv.org/abs/2112.12143)|N/A|
+|2022|CVPR|`cap.`, `vlm.`|[Grounded Language-Image Pre-training](https://arxiv.org/pdf/2112.03857.pdf)|[[Code](https://github.com/microsoft/GLIP)]|
+|2022|NeurIPS|`cap.`, `vlm.`|[GLIPv2: Unifying Localization and VL Understanding](https://arxiv.org/pdf/2206.05836.pdf)|[Code](https://github.com/microsoft/GLIP)]|
 |2022|ECCV|`vlm`, `pl`, `w/o ps.`|[Extract Free Dense Labels from CLIP](https://arxiv.org/abs/2112.01071)|[Code](https://github.com/chongzhou96/MaskCLIP)|
 |2022|ECCV|`vlm.`|[A Simple Baseline for Open-Vocabulary Semantic Segmentation with Pre-trained Vision-Language Model](https://arxiv.org/abs/2112.14757)|[Code](https://github.com/MendelXu/zsseg.baseline)|
 |2022|ECCV|`vlm.`, `cap.`, `w/o ps.`|[Open-world Semantic Segmentation via Contrasting and Clustering Vision-Language Embedding](https://arxiv.org/abs/2207.08455)|N/A|
@@ -171,6 +174,7 @@ In this survey, we present the first detailed survey on the Open Vocabulary task
 
 |Year|Venue|Keywords|Paper Title|Code/Project|
 |:-:|:-:|:-:|-|-|
+|2023|CVPR|`vlm.`|[Semantic-Promoted Debiasing and Background Disambiguation for Zero-Shot Instance Segmentation](https://henghuiding.github.io/D2Zero/)|[Code](https://github.com/heshuting555/D2Zero)|
 |2022|CVPR|`cap.`, `pl.`, `vlm.`|[Open-Vocabulary Instance Segmentation via Robust Cross-Modal Pseudo-Labeling](https://arxiv.org/abs/2111.12698)|[Code](https://github.com/hbdat/cvpr22_cross_modal_pseudo_labeling)|
 |2023|CVPR|`vlm`, `cap`, `w/o ps.`|[Mask-free OVIS: Open-Vocabulary Instance Segmentation without Manual Mask Annotations](https://arxiv.org/abs/2303.16891)|[Code](https://github.com/Vibashan/Maskfree-OVIS)|
 |2023|arXiv|`cap.`|[Betrayed by Captions: Joint Caption Grounding and Generation for Open Vocabulary Instance Segmentation](https://arxiv.org/abs/2301.00805)|[Code](https://github.com/jianzongwu/betrayed-by-captions)|
@@ -179,6 +183,7 @@ In this survey, we present the first detailed survey on the Open Vocabulary task
 
 |Year|Venue|Keywords|Paper Title|Code/Project|
 |:-:|:-:|:-:|-|-|
+|2023|CVPR|`unify.`, `vlm.` |[Primitive Generation and Semantic-related Alignment for Universal Zero-Shot Segmentation](https://henghuiding.github.io/PADing/)|[Code](https://github.com/heshuting555/PADing)|
 |2022|arXiv|`vlm`|[Open-Vocabulary Panoptic Segmentation with MaskCLIP](https://arxiv.org/abs/2208.08984)|N/A|
 |2023|CVPR|`diff`, `vlm`|[Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models](https://arxiv.org/abs/2303.04803)|[Code](https://github.com/NVlabs/ODISE)|
 |2023|arXiv|`vlm.`|[Open-vocabulary Panoptic Segmentation with Embedding Modulation](https://arxiv.org/abs/2303.11324)|N/A|
