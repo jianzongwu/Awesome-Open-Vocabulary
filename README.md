@@ -33,7 +33,7 @@
   </p>
 
   <p align="center">
-    <a>
+    <a href='https://arxiv.org/abs/2306.15880'>
       <img src='https://img.shields.io/badge/Paper-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
     </a>
   </p>
