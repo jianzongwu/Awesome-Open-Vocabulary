@@ -155,6 +155,7 @@ In this survey, we present the first detailed survey on the Open Vocabulary task
 |2022|ECCV|`vlm.`|[A Simple Baseline for Open-Vocabulary Semantic Segmentation with Pre-trained Vision-Language Model](https://arxiv.org/abs/2112.14757)|[Code](https://github.com/MendelXu/zsseg.baseline)|
 |2022|ECCV|`vlm.`, `cap.`, `w/o ps.`|[Open-world Semantic Segmentation via Contrasting and Clustering Vision-Language Embedding](https://arxiv.org/abs/2207.08455)|N/A|
 |2022|BMVC|`vlm.`|[Open-vocabulary Semantic Segmentation with Frozen Vision-Language Models](https://arxiv.org/abs/2210.15138)|[Code](https://github.com/chaofanma/Fusioner)|
+|2022|arXiv|`vlm.`, `cap.`, `pl`, `w/o ps.`|[Perceptual Grouping in Contrastive Vision-Language Models](https://arxiv.org/abs/2210.09996)|[Code](https://github.com/kahnchana/clippy)|
 |2022|arXiv|`vlm.`, `cap.`, `pl`, `w/o ps.`|[SegCLIP: Patch Aggregation with Learnable Centers for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2211.14813)|[Code](https://github.com/ArrowLuo/SegCLIP)|
 |2022|arXiv|`vlm.`, `cap.`, `w/o ps.`|[Open Vocabulary Semantic Segmentation with Patch Aligned Contrastive Learning](https://arxiv.org/abs/2212.04994)|N/A|
 |2023|CVPR|`vlm.`, `pre.`|[Generalized Decoding for Pixel, Image, and Language](https://arxiv.org/abs/2212.11270)|[Code](https://github.com/microsoft/X-Decoder/tree/main)|
