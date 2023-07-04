@@ -234,6 +234,7 @@ In this survey, we present the first detailed survey on the Open Vocabulary task
 |2022|arXiv|`vlm.`|[PointCLIP V2: Adapting CLIP for Powerful 3D Open-world Learning](https://arxiv.org/abs/2211.11682)|[Code](https://github.com/yangyangyang127/PointCLIP_V2)|
 |2022|arXiv|`vlm.`|[LidarCLIP or: How I Learned to Talk to Point Clouds](https://arxiv.org/abs/2212.06858)|[Code](https://github.com/atonderski/lidarclip)|
 |2023|CVPR|`vlm.`|[ULIP: Learning a Unified Representation of Language, Images, and Point Clouds for 3D Understanding](https://arxiv.org/abs/2212.05171)|[Code](https://github.com/salesforce/ULIP)|
+|2023|ICML|`vlm.`|[Contrast with Reconstruct: Contrastive 3D Representation Learning Guided by Generative Pretraining](https://openreview.net/forum?id=80IfYewOh1)|[Code](https://github.com/qizekun/ReCon)|
 
 #### 3D Detection
 
