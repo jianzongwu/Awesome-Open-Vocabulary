@@ -190,6 +190,7 @@ In this survey, we present the first detailed survey on the open vocabulary task
 |2022|arXiv|`vlm`|[Open-Vocabulary Panoptic Segmentation with MaskCLIP](https://arxiv.org/abs/2208.08984)|N/A|
 |2023|CVPR|`diff`, `vlm`|[Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models](https://arxiv.org/abs/2303.04803)|[Code](https://github.com/NVlabs/ODISE)|
 |2023|arXiv|`vlm.`|[Open-vocabulary Panoptic Segmentation with Embedding Modulation](https://arxiv.org/abs/2303.11324)|N/A|
+|2023|arXiv|`vlm.`, 'unify'|[Hierarchical Open-vocabulary Universal Image Segmentation]([https://arxiv.org/abs/2303.11324](https://arxiv.org/abs/2307.00764))| [Code](https://github.com/berkeley-hipie/HIPIE)|
 
 ### Open Vocabulary Video Understanding
 
