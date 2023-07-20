@@ -39,9 +39,17 @@
   </p>
 <br />
 
-This repo is used for recording, tracking, and benchmarking several recent open vocabulary methods as a supplement for our [survey]().  
+This repo is used for recording, tracking, and benchmarking several recent open vocabulary methods to supplement our [survey](https://arxiv.org/abs/2306.15880).  
 If you find any work missing or have any suggestions (papers, implementations, and other resources), feel free to [pull requests](https://github.com/jianzongwu/Awesome-Open-Vocabulary/pulls).
-We will add the missing papers to this repo ASAP.
+We will add the missing papers to this repo as soon as possible.
+
+
+
+### 🔥New
+
+[-] We update GitHub to record the available paper by the end of 2023/7/20.
+
+
 
 ### 🔥Highlight!!
 
@@ -49,11 +57,13 @@ We will add the missing papers to this repo ASAP.
 
 [2]  It also contains several related domains, including foundation model tuning and open-world detection. 
 
-[3]  We list detailed results for the most representative works.
+[3]  We list detailed results for the most representative works and give a more fair and clearer comparison of different approaches.
+
+
 
 ## Introduction
 
-In this survey, we present the first detailed survey on the open vocabulary tasks, including open vocabulary object detection, open vocabulary segmentation, and 3D/video open vocabulary tasks.
+This survey presents the first detailed survey on open vocabulary tasks, including open-vocabulary object detection, open-vocabulary segmentation, and 3D/video open-vocabulary tasks.
 
 ![Alt Text](figs/timeline.jpg)
 
