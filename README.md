@@ -183,6 +183,8 @@ This survey presents the first detailed survey on open vocabulary tasks, includi
 |2023|arXiv|`vlm.`, `w/o ps.`, `sam`|[Exploring Open-Vocabulary Semantic Segmentation without Human Labels](https://arxiv.org/abs/2306.00450)|N/A|
 |2023|arXiv|`vlm.`, `unify`|[DaTaSeg: Taming a Universal Multi-Dataset Multi-Task Segmentation Model](https://arxiv.org/abs/2306.01736)|N/A|
 |2023|arXiv|`diff.`|[Diffusion Models for Zero-Shot Open-Vocabulary Segmentation](https://arxiv.org/abs/2306.09316)|[Project](https://www.robots.ox.ac.uk/~vgg/research/ovdiff/)|
+|2023|ICCV|`diff.`|[Diffumask: Synthesizing images with pixel-level annotations for semantic segmentation using diffusion models](https://arxiv.org/abs/2303.11681)|[Project](https://weijiawu.github.io/DiffusionMask/)|
+|2023|ICCV|`diff.`|[Guiding Text-to-Image Diffusion Model Towards Grounded Generation](https://arxiv.org/abs/2301.05221)|[Project](https://lipurple.github.io/Grounded_Diffusion/)|
 
 #### Instance Segmentation
 
