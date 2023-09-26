@@ -43,7 +43,9 @@ This repo is used for recording, tracking, and benchmarking several recent open 
 If you find any work missing or have any suggestions (papers, implementations, and other resources), feel free to [pull requests](https://github.com/jianzongwu/Awesome-Open-Vocabulary/pulls).
 We will add the missing papers to this repo as soon as possible.
 
+### 🔥Add Your Paper in our Repo and Survey!!!!!
 
+[-] You are welcome to give us an issue or PR for your open vocabulary learning work !!!!!
 
 ### 🔥New
 
