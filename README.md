@@ -119,6 +119,8 @@ This survey presents the first detailed survey on open vocabulary tasks, includi
 |2022|CVPR|`cap.`, `vlm.`, `pre.`|[RegionCLIP: Region-based Language-Image Pretraining](https://arxiv.org/abs/2112.09106)|[Code](https://github.com/microsoft/RegionCLIP)|
 |2022|CVPR|`vlm.`|[Learning to Prompt for Open-Vocabulary Object Detection with Vision-Language Model](https://arxiv.org/abs/2203.14940)|[Code](https://github.com/dyabel/detpro)|
 |2022|CVPR|`vlm.`, `cap.`|[Open-Vocabulary One-Stage Detection with Hierarchical Visual-Language Knowledge Distillation](https://arxiv.org/abs/2203.10593)|[Code](https://github.com/mengqiDyangge/HierKD)|
+|2022|CVPR|`cap.`, `vlm.`|[Grounded Language-Image Pre-training](https://arxiv.org/pdf/2112.03857.pdf)|[[Code](https://github.com/microsoft/GLIP)]|
+|2022|NeurIPS|`cap.`, `vlm.`|[GLIPv2: Unifying Localization and VL Understanding](https://arxiv.org/pdf/2206.05836.pdf)|[Code](https://github.com/microsoft/GLIP)|
 |2022|GCPR|`cap.`|[Localized Vision-Language Matching for Open-vocabulary Object Detection](https://arxiv.org/abs/2205.06160)|[Code](https://github.com/lmb-freiburg/locov)|
 |2022|ECCV|`vlm.`|[Open-Vocabulary DETR with Conditional Matching](https://arxiv.org/abs/2203.11876)|[Code](https://github.com/yuhangzang/OV-DETR)|
 |2022|ECCV|`vlm.`, `cap.`, `pl.`|[Open Vocabulary Object Detection with Pseudo Bounding-Box Labels](https://arxiv.org/abs/2111.09452)|[Code](https://github.com/salesforce/PB-OVD)|
@@ -147,6 +149,7 @@ This survey presents the first detailed survey on open vocabulary tasks, includi
 |2023|arXiv|`vlm.`, `cap.`, `pl.`|[MaMMUT: A Simple Architecture for Joint Learning for MultiModal Tasks](https://arxiv.org/abs/2303.16839)|N/A|
 |2023|arXiv|`vlm.`, `cap.`, `pl.`|[Scaling Open-Vocabulary Object Detection](arxiv.org/abs/2306.09683)|N/A|
 |2023|arXiv|`vlm.`|[Open-Vocabulary Object Detection via Scene Graph Discovery](http://arxiv.org/abs/2307.03339)|N/A|
+
 ### Open Vocabulary Segmentation
 
 |Year|Venue|Keywords|Paper Title|Code/Project|
@@ -162,8 +165,6 @@ This survey presents the first detailed survey on open vocabulary tasks, includi
 |2022|CVPR|`cap.`, `w/o ps.`|[GroupViT: Semantic Segmentation Emerges from Text Supervision](https://arxiv.org/abs/2202.11094)|[Code](https://github.com/NVlabs/GroupViT)|
 |2022|CVPR|`vlm.`|[ZegFormer: Decoupling Zero-Shot Semantic Segmentation](https://arxiv.org/abs/2112.07910)|[Code](https://github.com/dingjiansw101/ZegFormer)|
 |2022|ECCV|`cap.`, `vlm.`|[Scaling Open-Vocabulary Image Segmentation with Image-Level Labels](https://arxiv.org/abs/2112.12143)|N/A|
-|2022|CVPR|`cap.`, `vlm.`|[Grounded Language-Image Pre-training](https://arxiv.org/pdf/2112.03857.pdf)|[[Code](https://github.com/microsoft/GLIP)]|
-|2022|NeurIPS|`cap.`, `vlm.`|[GLIPv2: Unifying Localization and VL Understanding](https://arxiv.org/pdf/2206.05836.pdf)|[Code](https://github.com/microsoft/GLIP)]|
 |2022|ECCV|`vlm`, `pl`, `w/o ps.`|[Extract Free Dense Labels from CLIP](https://arxiv.org/abs/2112.01071)|[Code](https://github.com/chongzhou96/MaskCLIP)|
 |2022|ECCV|`vlm.`|[A Simple Baseline for Open-Vocabulary Semantic Segmentation with Pre-trained Vision-Language Model](https://arxiv.org/abs/2112.14757)|[Code](https://github.com/MendelXu/zsseg.baseline)|
 |2022|ECCV|`vlm.`, `cap.`, `w/o ps.`|[Open-world Semantic Segmentation via Contrasting and Clustering Vision-Language Embedding](https://arxiv.org/abs/2207.08455)|N/A|
