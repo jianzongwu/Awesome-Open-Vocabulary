@@ -266,6 +266,7 @@ This survey presents the first detailed survey on open vocabulary tasks, includi
 |:-:|:-:|:-:|-|-|
 |2023|CVPR|`vlm.`|[PLA: Language-Driven Open-Vocabulary 3D Scene Understanding](https://arxiv.org/abs/2211.16312)|[Code](https://dingry.github.io/projects/PLA)|
 |2023|CVPR|`vlm.`|[CLIP2Scene: Towards Label-efficient 3D Scene Understanding by CLIP](https://arxiv.org/abs/2301.04926)|[Code](https://github.com/runnanchen/CLIP2Scene)|
+|2023|CVPR|`vlm.`|[OpenScene: 3D Scene Understanding with Open Vocabularies](https://arxiv.org/abs/2211.15654)|[Project](https://pengsongyou.github.io/openscene)|
 |2023|arXiv|`vlm.`|[CLIP-FO3D: Learning Free Open-world 3D Scene Representations from 2D Dense CLIP](https://arxiv.org/abs/2303.04748)|N/A|
 |2023|arXiv|`vlm.`|[OpenIns3D: Snap and Lookup for 3D Open-vocabulary Instance Segmentation](https://arxiv.org/abs/2309.00616)|[Project](https://zheninghuang.github.io/OpenIns3D/)|
 |2023|arXiv|`vlm.`|[OpenMask3D: Open-Vocabulary 3D Instance Segmentation](https://arxiv.org/abs/2306.13631)|[Project](https://openmask3d.github.io/)|
