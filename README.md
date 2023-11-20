@@ -259,6 +259,7 @@ This survey presents the first detailed survey on open vocabulary tasks, includi
 |:-:|:-:|:-:|-|-|
 |2022|arXiv|`vlm.`|[Open-Vocabulary 3D Detection via Image-level Class and Debiased Cross-modal Contrastive Learning](https://arxiv.org/abs/2207.01987)|N/A|
 |2023|CVPR|`vlm.`|[Open-Vocabulary Point-Cloud Object Detection without 3D Annotation](https://arxiv.org/abs/2304.00788v1)|[Code](https://github.com/lyhdet/OV-3DET)|
+|2023|NeurIPS|`vlm.`|[CoDA: Collaborative Novel Box Discovery and Cross-modal Alignment for Open-vocabulary 3D Object Detection](https://arxiv.org/abs/2310.02960)|[Project](https://yangcaoai.github.io/publications/CoDA.html)|
 
 #### 3D segmentation
 
