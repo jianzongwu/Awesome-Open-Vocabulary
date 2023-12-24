@@ -154,7 +154,7 @@ This survey presents the first detailed survey on open vocabulary tasks, includi
 |2023|arXiv|`vlm.`, `cap.`, `pl.`|[MaMMUT: A Simple Architecture for Joint Learning for MultiModal Tasks](https://arxiv.org/abs/2303.16839)|N/A|
 |2023|arXiv|`vlm.`, `cap.`, `pl.`|[Scaling Open-Vocabulary Object Detection](arxiv.org/abs/2306.09683)|N/A|
 |2023|arXiv|`vlm.`|[Open-Vocabulary Object Detection via Scene Graph Discovery](http://arxiv.org/abs/2307.03339)|N/A|
-|2023|arXiv|`unify.`, `vlm.`, `pre.`|[CLIPSelf: Vision Transformer Distills Itself for Open-vocabulary Dense Prediction](https://arxiv.org/abs/2310.01403)|[Code](https://github.com/wusize/CLIPSelf)|
+|2023|arXiv|`unify.`, `vlm.`, `pre.`|[CLIPSelf: Vision Transformer Distills Itself for Open-Vocabulary Dense Prediction](https://arxiv.org/abs/2310.01403)|[Code](https://github.com/wusize/CLIPSelf)|
 |2024|AAAI|`unify.`, `vlm.`, `pre.`|[CLIM: Contrastive Language-Image Mosaic for Region Representation](https://arxiv.org/abs/2312.11376)|[Code](https://github.com/wusize/CLIM)|
 
 ### Open Vocabulary Segmentation
