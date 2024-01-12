@@ -154,9 +154,17 @@ This survey presents the first detailed survey on open vocabulary tasks, includi
 |2023|arXiv|`vlm.`, `cap.`, `pl.`|[MaMMUT: A Simple Architecture for Joint Learning for MultiModal Tasks](https://arxiv.org/abs/2303.16839)|N/A|
 |2023|arXiv|`vlm.`, `cap.`, `pl.`|[Scaling Open-Vocabulary Object Detection](arxiv.org/abs/2306.09683)|N/A|
 |2023|arXiv|`vlm.`|[Open-Vocabulary Object Detection via Scene Graph Discovery](http://arxiv.org/abs/2307.03339)|N/A|
+|2023|ICCV|`vlm.`|[Detection-Oriented Image-Text Pretraining for Open-Vocabulary Detection](https://arxiv.org/abs/2310.00161)|[Code](https://github.com/google-research/google-research/tree/master/fvlm/dito)|
+|2023|arXiv|`vlm.`|[EdaDet: Open-Vocabulary Object Detection Using Early Dense Alignment](https://arxiv.org/abs/2309.01151)|[Code](https://chengshiest.github.io/edadet/)|
+|2023|KDD|`vlm.`|[What Makes Good Open-Vocabulary Detector: A Disassembling Perspective](https://arxiv.org/abs/2309.00227)|N/A|
+|2023|NeurIPS |`vlm.`|[CoDet: Co-Occurrence Guided Region-Word Alignment for Open-Vocabulary Object Detection](https://arxiv.org/abs/2310.16667)|[Code](https://github.com/cvmi-lab/codet)|
+|2023|arXiv|`vlm.`|[DST-Det: Simple Dynamic Self-Training for Open-Vocabulary Object Detection](https://arxiv.org/abs/2310.01393)|[Code](https://github.com/xushilin1/dst-det)|
+|2023|arXiv|`vlm.`|[Taming Self-Training for Open-Vocabulary Object Detection](https://arxiv.org/abs/2308.06412)|[Code](https://github.com/xiaofeng94/sas-det)|
 |2023|arXiv|`unify.`, `vlm.`, `pre.`|[CLIPSelf: Vision Transformer Distills Itself for Open-Vocabulary Dense Prediction](https://arxiv.org/abs/2310.01403)|[Code](https://github.com/wusize/CLIPSelf)|
+|2024|AAAI|`vlm.`|[Simple Image-level Classification Improves Open-vocabulary Object Detection](https://arxiv.org/abs/2312.10439)|[Code](https://github.com/mala-lab/sic-cads)|
+|2024|AAAI|`vlm.`|[ProxyDet: Synthesizing Proxy Novel Classes via Classwise Mixup for Open-Vocabulary Object Detection](https://arxiv.org/abs/2312.07266)|[Code](https://github.com/clovaai/ProxyDet)|
 |2024|AAAI|`unify.`, `vlm.`, `pre.`|[CLIM: Contrastive Language-Image Mosaic for Region Representation](https://arxiv.org/abs/2312.11376)|[Code](https://github.com/wusize/CLIM)|
-
+|2024|WACV|`vlm.`|[LP-OVOD: Open-Vocabulary Object Detection by Linear Probing](https://arxiv.org/abs/2310.17109)|[Code](https://github.com/VinAIResearch/LP-OVOD)|
 ### Open Vocabulary Segmentation
 
 |Year|Venue|Keywords|Paper Title|Code/Project|
