@@ -239,9 +239,10 @@ This survey presents the first detailed survey on open vocabulary tasks, includi
 |2023|ICLR|`vlm.`|[AIM: Adapting Image Models for Efficient Video Action Recognition](https://arxiv.org/abs/2302.03024)|[Project](https://adapt-image-models.github.io/)|
 |2023|CVPR|`vlm.`,`open.`|[Fine-tuned CLIP Models are Efficient Video Learners](https://arxiv.org/abs/2212.03640)|[Code](https://github.com/muzairkhattak/ViFi-CLIP)|
 |2023|ICML|`vlm.`,`open.`|[Open-VCLIP: Transforming CLIP to an Open-vocabulary Video Model via Interpolated Weight Optimization](https://arxiv.org/abs/2302.00624)|[Code](https://github.com/wengzejia1/Open-VCLIP)|
-|2023|arXiv|`vlm.`,`open.`|[Video Action Recognition with Attentive Semantic Units](https://arxiv.org/abs/2303.09756)|N/A|
+|2023|ICCV|`vlm.`,`open.`|[Video Action Recognition with Attentive Semantic Units](https://arxiv.org/abs/2303.09756)|N/A|
+|2023|ICCV|`vlm.`,`open.`|[MAtch, eXpand and Improve: Unsupervised Finetuning for Zero-Shot Action Recognition with Language Knowledge](https://arxiv.org/abs/2303.08914)|[Code](https://github.com/wlin-at/MAXI)|
 |2023|arXiv|`vlm.`,`open.`|[VicTR: Video-conditioned Text Representations for Activity Recognition](https://arxiv.org/abs/2304.02560)|N/A|
-|2023|arXiv|`vlm.`,`open.`|[MAtch, eXpand and Improve: Unsupervised Finetuning for Zero-Shot Action Recognition with Language Knowledge](https://arxiv.org/abs/2303.08914)|N/A|
+|2023|arXiv|`vlm.`,`open.`|[Generating Action-conditioned Prompts for Open-vocabulary Video Action Recognition](https://arxiv.org/abs/2312.02226)|N/A|
 
 #### Tracking
 
@@ -253,8 +254,9 @@ This survey presents the first detailed survey on open vocabulary tasks, includi
 
 |Year|Venue|Keywords|Paper Title|Code/Project|
 |:-:|:-:|:-:|-|-|
-|2023|arXiv|`vlm.`,`open.`|[Towards Open-Vocabulary Video Instance Segmentation](https://arxiv.org/abs/2304.01715)|N/A|
+|2023|ICCV|`vlm.`,`open.`|[Towards Open-Vocabulary Video Instance Segmentation](https://arxiv.org/abs/2304.01715)|[Code](https://github.com/haochenheheda/LVVIS)|
 |2023|arXiv|`vlm.`,`open.`|[OpenVIS: Open-vocabulary Video Instance Segmentation](https://arxiv.org/abs/2305.16835)|N/A|
+|2023|arXiv|`vlm.`,`open.`|[DVIS++: Improved Decoupled Framework for Universal Video Segmentation](https://arxiv.org/abs/2312.13305)|[Code](https://github.com/zhang-tao-whu/DVIS_Plus)|
 
 ### Open Vocabulary 3D Scene Understanding
 
@@ -276,6 +278,9 @@ This survey presents the first detailed survey on open vocabulary tasks, includi
 |2022|arXiv|`vlm.`|[Open-Vocabulary 3D Detection via Image-level Class and Debiased Cross-modal Contrastive Learning](https://arxiv.org/abs/2207.01987)|N/A|
 |2023|CVPR|`vlm.`|[Open-Vocabulary Point-Cloud Object Detection without 3D Annotation](https://arxiv.org/abs/2304.00788v1)|[Code](https://github.com/lyhdet/OV-3DET)|
 |2023|NeurIPS|`vlm.`|[CoDA: Collaborative Novel Box Discovery and Cross-modal Alignment for Open-vocabulary 3D Object Detection](https://arxiv.org/abs/2310.02960)|[Project](https://yangcaoai.github.io/publications/CoDA.html)|
+|2023|arXiv|`vlm.`|[Object2Scene: Putting Objects in Context for Open-Vocabulary 3D Detection](https://arxiv.org/abs/2309.09456)|N/A|
+|2023|arXiv|`vlm.`|[FM-OV3D: Foundation Model-based Cross-modal Knowledge Blending for Open-Vocabulary 3D Detection](https://arxiv.org/abs/2312.14465)|N/A|
+|2023|arXiv|`vlm.`|[OpenSight: A Simple Open-Vocabulary Framework for LiDAR-Based Object Detection](https://arxiv.org/abs/2312.08876)|N/A|
 
 #### 3D segmentation
 
@@ -284,9 +289,10 @@ This survey presents the first detailed survey on open vocabulary tasks, includi
 |2023|CVPR|`vlm.`|[PLA: Language-Driven Open-Vocabulary 3D Scene Understanding](https://arxiv.org/abs/2211.16312)|[Code](https://dingry.github.io/projects/PLA)|
 |2023|CVPR|`vlm.`|[CLIP2Scene: Towards Label-efficient 3D Scene Understanding by CLIP](https://arxiv.org/abs/2301.04926)|[Code](https://github.com/runnanchen/CLIP2Scene)|
 |2023|CVPR|`vlm.`|[OpenScene: 3D Scene Understanding with Open Vocabularies](https://arxiv.org/abs/2211.15654)|[Project](https://pengsongyou.github.io/openscene)|
-|2023|arXiv|`vlm.`|[CLIP-FO3D: Learning Free Open-world 3D Scene Representations from 2D Dense CLIP](https://arxiv.org/abs/2303.04748)|N/A|
+|2023|ICCVW|`vlm.`|[CLIP-FO3D: Learning Free Open-world 3D Scene Representations from 2D Dense CLIP](https://arxiv.org/abs/2303.04748)|N/A|
+|2023|NeurIPS|`vlm.`|[OpenMask3D: Open-Vocabulary 3D Instance Segmentation](https://arxiv.org/abs/2306.13631)|[Project](https://openmask3d.github.io/)|
 |2023|arXiv|`vlm.`|[OpenIns3D: Snap and Lookup for 3D Open-vocabulary Instance Segmentation](https://arxiv.org/abs/2309.00616)|[Project](https://zheninghuang.github.io/OpenIns3D/)|
-|2023|arXiv|`vlm.`|[OpenMask3D: Open-Vocabulary 3D Instance Segmentation](https://arxiv.org/abs/2306.13631)|[Project](https://openmask3d.github.io/)|
+|2023|arXiv|`vlm.`|[Open3DIS: Open-vocabulary 3D Instance Segmentation with 2D Mask Guidance](https://arxiv.org/abs/2312.10671)|[Project](https://open3dis.github.io)|
 
 ## Related Domains and Beyond
 
