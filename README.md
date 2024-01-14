@@ -265,11 +265,11 @@ This survey presents the first detailed survey on open vocabulary tasks, includi
 |Year|Venue|Keywords|Paper Title|Code/Project|
 |:-:|:-:|:-:|-|-|
 |2022|CVPR|`vlm.`|[PointCLIP: Point Cloud Understanding by CLIP](https://arxiv.org/abs/2112.02413)|[Code](https://github.com/ZrrSkywalker/PointCLIP)|
-|2022|arXiv|`vlm.`|[CLIP2Point: Transfer CLIP to Point Cloud Classification with Image-Depth Pre-training](https://arxiv.org/abs/2210.01055)|[Code](https://github.com/tyhuang0428/CLIP2Point)|
 |2022|arXiv|`vlm.`|[PointCLIP V2: Adapting CLIP for Powerful 3D Open-world Learning](https://arxiv.org/abs/2211.11682)|[Code](https://github.com/yangyangyang127/PointCLIP_V2)|
-|2022|arXiv|`vlm.`|[LidarCLIP or: How I Learned to Talk to Point Clouds](https://arxiv.org/abs/2212.06858)|[Code](https://github.com/atonderski/lidarclip)|
 |2023|CVPR|`vlm.`|[ULIP: Learning a Unified Representation of Language, Images, and Point Clouds for 3D Understanding](https://arxiv.org/abs/2212.05171)|[Code](https://github.com/salesforce/ULIP)|
+|2023|ICCV|`vlm.`|[CLIP2Point: Transfer CLIP to Point Cloud Classification with Image-Depth Pre-training](https://arxiv.org/abs/2210.01055)|[Code](https://github.com/tyhuang0428/CLIP2Point)|
 |2023|ICML|`vlm.`|[Contrast with Reconstruct: Contrastive 3D Representation Learning Guided by Generative Pretraining](https://openreview.net/forum?id=80IfYewOh1)|[Code](https://github.com/qizekun/ReCon)|
+|2024|WACV|`vlm.`|[LidarCLIP or: How I Learned to Talk to Point Clouds](https://arxiv.org/abs/2212.06858)|[Code](https://github.com/atonderski/lidarclip)|
 
 #### 3D Detection
 
