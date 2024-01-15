@@ -114,6 +114,7 @@ This survey presents the first detailed survey on open vocabulary tasks, includi
 - `open.`: Demonstrated with open-set capability. (only for Video Understanding)
 - `audio.`: With audio modality.
 - `other`: Other methods that cannot be grouped into above ones.
+- `no-train`: Does not need training.
 
 ### Open Vocabulary Object Detection
 
@@ -165,12 +166,14 @@ This survey presents the first detailed survey on open vocabulary tasks, includi
 |2024|AAAI|`vlm.`|[ProxyDet: Synthesizing Proxy Novel Classes via Classwise Mixup for Open-Vocabulary Object Detection](https://arxiv.org/abs/2312.07266)|[Code](https://github.com/clovaai/ProxyDet)|
 |2024|AAAI|`unify.`, `vlm.`, `pre.`|[CLIM: Contrastive Language-Image Mosaic for Region Representation](https://arxiv.org/abs/2312.11376)|[Code](https://github.com/wusize/CLIM)|
 |2024|WACV|`vlm.`|[LP-OVOD: Open-Vocabulary Object Detection by Linear Probing](https://arxiv.org/abs/2310.17109)|[Code](https://github.com/VinAIResearch/LP-OVOD)|
+
 ### Open Vocabulary Segmentation
 
 |Year|Venue|Keywords|Paper Title|Code/Project|
 |:-:|:-:|:-:|-|-|
 |2023|CVPR|`unify.`, `vlm.` |[Primitive Generation and Semantic-related Alignment for Universal Zero-Shot Segmentation](https://henghuiding.github.io/PADing/)|[Code](https://github.com/heshuting555/PADing)|
 |2023|CVPR|`unify.`, `vlm.` |[FreeSeg: Unified, Universal and Open-Vocabulary Image Segmentation](https://arxiv.org/abs/2303.17225)|[Code](https://github.com/bytedance/FreeSeg)|
+|2023|arXiv|`unify.`, `vlm.` |[OpenSD: Unified Open-Vocabulary Segmentation and Detection](https://arxiv.org/abs/2312.06703)|[Code](https://github.com/strongwolf/OpenSD)|
 
 #### Semantic Segmentation
 
@@ -204,6 +207,13 @@ This survey presents the first detailed survey on open vocabulary tasks, includi
 |2023|ICCV|`diff.`|[Diffumask: Synthesizing images with pixel-level annotations for semantic segmentation using diffusion models](https://arxiv.org/abs/2303.11681)|[Project](https://weijiawu.github.io/DiffusionMask/)|
 |2023|ICCV|`diff.`|[Guiding Text-to-Image Diffusion Model Towards Grounded Generation](https://arxiv.org/abs/2301.05221)|[Project](https://lipurple.github.io/Grounded_Diffusion/)|
 |2023|NeurIPS|`cap.`, `w/o ps.`|[Uncovering Prototypical Knowledge for Weakly Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2310.19001)|[Code](https://github.com/Ferenas/PGSeg)|
+|2023|arXiv|`vlm.`|[SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2311.15537)|[Code](https://github.com/xb534/SED)|
+|2023|arXiv|`vlm.`, `no-train`|[Plug-and-Play, Dense-Label-Free Extraction of Open-Vocabulary Semantic Segmentation from Vision-Language Models](https://arxiv.org/abs/2311.17095)|N/A|
+|2023|arXiv|`vlm.`, `no-train`|[Grounding Everything: Emerging Localization Properties in Vision-Language Transformers](https://arxiv.org/abs/2312.00878)|[Code](https://github.com/WalBouss/GEM)|
+|2023|arXiv|`vlm.`|[Open-Vocabulary Segmentation with Semantic-Assisted Calibration](https://arxiv.org/abs/2312.04089)|N/A|
+|2023|arXiv|`vlm.`, `no-train`|[Self-Guided Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2312.04539)|N/A|
+|2023|arXiv|`no-train.`, `vlm.`, `sam`|[CLIP as RNN: Segment Countless Visual Concepts without Training Endeavor](https://arxiv.org/abs/2312.07661)|[Project](https://torrvision.com/clip_as_rnn/)|
+|2023|arXiv|`vlm.`|[CLIP-DINOiser: Teaching CLIP a few DINO tricks](https://arxiv.org/abs/2312.12359)|N/A|
 
 #### Instance Segmentation
 
@@ -213,6 +223,8 @@ This survey presents the first detailed survey on open vocabulary tasks, includi
 |2022|CVPR|`cap.`, `pl.`, `vlm.`|[Open-Vocabulary Instance Segmentation via Robust Cross-Modal Pseudo-Labeling](https://arxiv.org/abs/2111.12698)|[Code](https://github.com/hbdat/cvpr22_cross_modal_pseudo_labeling)|
 |2023|CVPR|`vlm`, `cap`, `w/o ps.`|[Mask-free OVIS: Open-Vocabulary Instance Segmentation without Manual Mask Annotations](https://arxiv.org/abs/2303.16891)|[Code](https://github.com/Vibashan/Maskfree-OVIS)|
 |2023|arXiv|`cap.`|[Betrayed by Captions: Joint Caption Grounding and Generation for Open Vocabulary Instance Segmentation](https://arxiv.org/abs/2301.00805)|[Code](https://github.com/jianzongwu/betrayed-by-captions)|
+|2023|arXiv|`cap.`|[Leveraging Open-Vocabulary Diffusion to Camouflaged Instance Segmentation](https://arxiv.org/abs/2312.17505)|N/A|
+
 
 #### Panoptic Segmentation
 
@@ -222,7 +234,7 @@ This survey presents the first detailed survey on open vocabulary tasks, includi
 |2022|arXiv|`vlm`|[Open-Vocabulary Panoptic Segmentation with MaskCLIP](https://arxiv.org/abs/2208.08984)|N/A|
 |2023|CVPR|`diff`, `vlm`|[Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models](https://arxiv.org/abs/2303.04803)|[Code](https://github.com/NVlabs/ODISE)|
 |2023|arXiv|`vlm.`|[Open-vocabulary Panoptic Segmentation with Embedding Modulation](https://arxiv.org/abs/2303.11324)|N/A|
-|2023|arXiv|`vlm.`, 'unify'|[Hierarchical Open-vocabulary Universal Image Segmentation]([https://arxiv.org/abs/2303.11324](https://arxiv.org/abs/2307.00764))| [Code](https://github.com/berkeley-hipie/HIPIE)|
+|2023|arXiv|`vlm.`, `unify`|[Hierarchical Open-vocabulary Universal Image Segmentation]([https://arxiv.org/abs/2303.11324](https://arxiv.org/abs/2307.00764))| [Code](https://github.com/berkeley-hipie/HIPIE)|
 
 ### Open Vocabulary Video Understanding
 
