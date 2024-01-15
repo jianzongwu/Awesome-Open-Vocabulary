@@ -64,7 +64,7 @@ We will add the missing papers to this repo as soon as possible.
 
 [2]  It also contains several related domains, including foundation model tuning and open-world detection. 
 
-[3]  We list detailed results for the most representative works and give a more fair and clearer comparison of different approaches.
+[3]  We list detailed results for the most representative works and give a fairer and clearer comparison of different approaches.
 
 
 
@@ -330,7 +330,9 @@ This survey presents the first detailed survey on open vocabulary tasks, includi
 |2022|arXiv|-|[Revisiting Open World Object Detection](https://arxiv.org/abs/2201.00471)|[Code](https://github.com/RE-OWOD/RE-OWOD)|
 |2022|arXiv|-|[Rectifying Open-set Object Detection: A Taxonomy, Practical Applications, and Proper Evaluation](https://arxiv.org/abs/2207.09775)|[N/A]
 |2022|arXiv|-|[Open World DETR: Transformer based Open World Object Detection](https://arxiv.org/abs/2212.02969)|N/A|
-|2022|arXiv|-|[PROB: Probabilistic Objectness for Open World Object Detection](https://arxiv.org/abs/2212.01424)|[Code](https://github.com/orrzohar/PROB)|
+|2023|CVPR|-|[PROB: Probabilistic Objectness for Open World Object Detection](https://arxiv.org/abs/2212.01424)|[Code](https://github.com/orrzohar/PROB)|
+|2023|arXiv|-|[Open World Object Detection in the Era of Foundation Models](https://arxiv.org/abs/2312.05745)|[Code](https://github.com/orrzohar/FOMO)|
+|2023|arXiv|-|[Hyp-OW: Exploiting Hierarchical Structure Learning with Hyperbolic Distance Enhances Open World Object Detection](https://arxiv.org/abs/2306.14291)|[N/A]|
 
 ### Open-Set Panoptic Segmentation
 
