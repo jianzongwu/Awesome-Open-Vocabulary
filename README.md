@@ -4,7 +4,7 @@
 <p align="center">
   <h1 align="center">Towards Open Vocabulary Learning: A Survey</h1>
   <p align="center">
-    arXiv, 2023
+    <b> T-PAMI, 2024 </b>
     <br />
     <a href="https://jianzongwu.github.io/"><strong>Jianzong Wu <sup>*</sup></strong></a>
     .
@@ -53,6 +53,10 @@ We will add the missing papers to this repo as soon as possible.
 
 
 ### 🔥New
+
+[-] Our work is accepted by T-PAMI !!! 🔥🔥🔥
+
+[-] We update GitHub to record the available paper by the end of **2024/1/10**.
 
 [-] We update GitHub to record the available paper by the end of **2023/7/20**.
 
@@ -349,8 +353,8 @@ If you find our survey and repository useful for your research project, please c
 @article{wu2023open,
       title={Towards Open Vocabulary Learning: A Survey}, 
       author={Jianzong Wu and Xiangtai Li and Shilin Xu and Haobo Yuan and Henghui Ding and Yibo Yang and Xia Li and Jiangning Zhang and Yunhai Tong and Xudong Jiang and Bernard Ghanem and Dacheng Tao},
-      year={2023},
-      journal={arXiv pre-print},
+      year={2024},
+      journal={T-PAMI},
 }
 ```
 
