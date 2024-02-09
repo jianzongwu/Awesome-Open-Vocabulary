@@ -34,7 +34,10 @@
 
   <p align="center">
     <a href='https://arxiv.org/abs/2306.15880'>
-      <img src='https://img.shields.io/badge/Paper-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
+      <img src='https://img.shields.io/badge/arXiv-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
+    </a>
+    <a href='https://ieeexplore.ieee.org/document/10420487'>
+      <img src='https://img.shields.io/badge/TPAMI-PDF-blue?style=flat&logo=IEEE&logoColor=green' alt='TPAMI PDF'>
     </a>
   </p>
 <br />
@@ -56,6 +59,7 @@ We will add the missing papers to this repo as soon as possible.
 
 [-] We update GitHub to record the available paper by the end of **2023/7/20**.
 
+[-] This survey has been accecpted by TPAMI 🎉🎉🎉
 
 
 ### 🔥Highlight!!
