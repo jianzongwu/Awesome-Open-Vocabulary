@@ -4,7 +4,7 @@
 <p align="center">
   <h1 align="center">Towards Open Vocabulary Learning: A Survey</h1>
   <p align="center">
-    arXiv, 2023
+    <b> T-PAMI, 2024 </b>
     <br />
     <a href="https://jianzongwu.github.io/"><strong>Jianzong Wu <sup>*</sup></strong></a>
     .
@@ -57,6 +57,10 @@ We will add the missing papers to this repo as soon as possible.
 
 ### 🔥New
 
+[-] Our work is accepted by T-PAMI !!! 🔥🔥🔥
+
+[-] We update GitHub to record the available paper by the end of **2024/1/10**.
+
 [-] We update GitHub to record the available paper by the end of **2023/7/20**.
 
 [-] This survey has been accecpted by TPAMI 🎉🎉🎉
@@ -68,7 +72,7 @@ We will add the missing papers to this repo as soon as possible.
 
 [2]  It also contains several related domains, including foundation model tuning and open-world detection. 
 
-[3]  We list detailed results for the most representative works and give a more fair and clearer comparison of different approaches.
+[3]  We list detailed results for the most representative works and give a fairer and clearer comparison of different approaches.
 
 
 
@@ -117,6 +121,7 @@ This survey presents the first detailed survey on open vocabulary tasks, includi
 - `sam`: Use SAM (Segment Anything Model)
 - `open.`: Demonstrated with open-set capability. (only for Video Understanding)
 - `audio.`: With audio modality.
+- `bench`: Propose a benchmark.
 - `other`: Other methods that cannot be grouped into above ones.
 - `no-train`: Does not need training.
 
@@ -166,6 +171,7 @@ This survey presents the first detailed survey on open vocabulary tasks, includi
 |2023|arXiv|`vlm.`|[DST-Det: Simple Dynamic Self-Training for Open-Vocabulary Object Detection](https://arxiv.org/abs/2310.01393)|[Code](https://github.com/xushilin1/dst-det)|
 |2023|arXiv|`vlm.`|[Taming Self-Training for Open-Vocabulary Object Detection](https://arxiv.org/abs/2308.06412)|[Code](https://github.com/xiaofeng94/sas-det)|
 |2023|arXiv|`unify.`, `vlm.`, `pre.`|[CLIPSelf: Vision Transformer Distills Itself for Open-Vocabulary Dense Prediction](https://arxiv.org/abs/2310.01403)|[Code](https://github.com/wusize/CLIPSelf)|
+|2023|arXiv|`bench`|[The devil is in the fine-grained details: Evaluating open-vocabulary object detectors for fine-grained understanding](https://arxiv.org/abs/2311.17518)|[Project](https://lorebianchi98.github.io/FG-OVD/)|
 |2024|AAAI|`vlm.`|[Simple Image-level Classification Improves Open-vocabulary Object Detection](https://arxiv.org/abs/2312.10439)|[Code](https://github.com/mala-lab/sic-cads)|
 |2024|AAAI|`vlm.`|[ProxyDet: Synthesizing Proxy Novel Classes via Classwise Mixup for Open-Vocabulary Object Detection](https://arxiv.org/abs/2312.07266)|[Code](https://github.com/clovaai/ProxyDet)|
 |2024|AAAI|`unify.`, `vlm.`, `pre.`|[CLIM: Contrastive Language-Image Mosaic for Region Representation](https://arxiv.org/abs/2312.11376)|[Code](https://github.com/wusize/CLIM)|
@@ -334,7 +340,9 @@ This survey presents the first detailed survey on open vocabulary tasks, includi
 |2022|arXiv|-|[Revisiting Open World Object Detection](https://arxiv.org/abs/2201.00471)|[Code](https://github.com/RE-OWOD/RE-OWOD)|
 |2022|arXiv|-|[Rectifying Open-set Object Detection: A Taxonomy, Practical Applications, and Proper Evaluation](https://arxiv.org/abs/2207.09775)|[N/A]
 |2022|arXiv|-|[Open World DETR: Transformer based Open World Object Detection](https://arxiv.org/abs/2212.02969)|N/A|
-|2022|arXiv|-|[PROB: Probabilistic Objectness for Open World Object Detection](https://arxiv.org/abs/2212.01424)|[Code](https://github.com/orrzohar/PROB)|
+|2023|CVPR|-|[PROB: Probabilistic Objectness for Open World Object Detection](https://arxiv.org/abs/2212.01424)|[Code](https://github.com/orrzohar/PROB)|
+|2023|arXiv|-|[Open World Object Detection in the Era of Foundation Models](https://arxiv.org/abs/2312.05745)|[Code](https://github.com/orrzohar/FOMO)|
+|2023|arXiv|-|[Hyp-OW: Exploiting Hierarchical Structure Learning with Hyperbolic Distance Enhances Open World Object Detection](https://arxiv.org/abs/2306.14291)|[N/A]|
 
 ### Open-Set Panoptic Segmentation
 
@@ -351,8 +359,8 @@ If you find our survey and repository useful for your research project, please c
 @article{wu2023open,
       title={Towards Open Vocabulary Learning: A Survey}, 
       author={Jianzong Wu and Xiangtai Li and Shilin Xu and Haobo Yuan and Henghui Ding and Yibo Yang and Xia Li and Jiangning Zhang and Yunhai Tong and Xudong Jiang and Bernard Ghanem and Dacheng Tao},
-      year={2023},
-      journal={arXiv pre-print},
+      year={2024},
+      journal={T-PAMI},
 }
 ```
 
@@ -360,9 +368,6 @@ If you find our survey and repository useful for your research project, please c
 
 ```
 jzwu@stu.pku.edu.cn
-```
-```
-xiangtai.li@ntu.edu.sg 
 ```
 ```
 lxtpku@pku.edu.cn
