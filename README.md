@@ -63,8 +63,6 @@ We will add the missing papers to this repo as soon as possible.
 
 [-] We update GitHub to record the available paper by the end of **2023/7/20**.
 
-[-] This survey has been accecpted by TPAMI 🎉🎉🎉
-
 
 ### 🔥Highlight!!
 
