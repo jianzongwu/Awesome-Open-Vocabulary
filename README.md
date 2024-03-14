@@ -170,6 +170,7 @@ This survey presents the first detailed survey on open vocabulary tasks, includi
 |2023|arXiv|`vlm.`|[Taming Self-Training for Open-Vocabulary Object Detection](https://arxiv.org/abs/2308.06412)|[Code](https://github.com/xiaofeng94/sas-det)|
 |2023|arXiv|`unify.`, `vlm.`, `pre.`|[CLIPSelf: Vision Transformer Distills Itself for Open-Vocabulary Dense Prediction](https://arxiv.org/abs/2310.01403)|[Code](https://github.com/wusize/CLIPSelf)|
 |2023|arXiv|`bench`|[The devil is in the fine-grained details: Evaluating open-vocabulary object detectors for fine-grained understanding](https://arxiv.org/abs/2311.17518)|[Project](https://lorebianchi98.github.io/FG-OVD/)|
+|2023|BMVC|`vlm.`|[Open-Vocabulary Object Detection with Meta Prompt Representation and Instance Contrastive Optimization]([http://arxiv.org/abs/2307.03339](https://proceedings.bmvc2023.org/93/))|N/A|
 |2024|AAAI|`vlm.`|[Simple Image-level Classification Improves Open-vocabulary Object Detection](https://arxiv.org/abs/2312.10439)|[Code](https://github.com/mala-lab/sic-cads)|
 |2024|AAAI|`vlm.`|[ProxyDet: Synthesizing Proxy Novel Classes via Classwise Mixup for Open-Vocabulary Object Detection](https://arxiv.org/abs/2312.07266)|[Code](https://github.com/clovaai/ProxyDet)|
 |2024|AAAI|`unify.`, `vlm.`, `pre.`|[CLIM: Contrastive Language-Image Mosaic for Region Representation](https://arxiv.org/abs/2312.11376)|[Code](https://github.com/wusize/CLIM)|
