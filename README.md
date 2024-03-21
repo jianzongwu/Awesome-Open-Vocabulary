@@ -370,5 +370,5 @@ If you find our survey and repository useful for your research project, please c
 jzwu@stu.pku.edu.cn
 ```
 ```
-lxtpku@pku.edu.cn
+lxtpku@pku.edu.cn or xiangtai94@gmail.com
 ```
