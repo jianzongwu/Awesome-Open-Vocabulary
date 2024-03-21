@@ -174,6 +174,7 @@ This survey presents the first detailed survey on open vocabulary tasks, includi
 |2024|AAAI|`vlm.`|[ProxyDet: Synthesizing Proxy Novel Classes via Classwise Mixup for Open-Vocabulary Object Detection](https://arxiv.org/abs/2312.07266)|[Code](https://github.com/clovaai/ProxyDet)|
 |2024|AAAI|`unify.`, `vlm.`, `pre.`|[CLIM: Contrastive Language-Image Mosaic for Region Representation](https://arxiv.org/abs/2312.11376)|[Code](https://github.com/wusize/CLIM)|
 |2024|WACV|`vlm.`|[LP-OVOD: Open-Vocabulary Object Detection by Linear Probing](https://arxiv.org/abs/2310.17109)|[Code](https://github.com/VinAIResearch/LP-OVOD)|
+|2024|CVPR|`vlm.`|[YOLO-World: Real-Time Open-Vocabulary Object Detection](https://arxiv.org/abs/2401.17270)|[Code](https://github.com/AILab-CVC/YOLO-World)|
 
 ### Open Vocabulary Segmentation
 
