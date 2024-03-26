@@ -224,6 +224,7 @@ This survey presents the first detailed survey on open vocabulary tasks, includi
 |2023|arXiv|`vlm.`, `no-train`|[Self-Guided Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2312.04539)|N/A|
 |2023|arXiv|`no-train.`, `vlm.`, `sam`|[CLIP as RNN: Segment Countless Visual Concepts without Training Endeavor](https://arxiv.org/abs/2312.07661)|[Project](https://torrvision.com/clip_as_rnn/)|
 |2023|arXiv|`vlm.`|[CLIP-DINOiser: Teaching CLIP a few DINO tricks](https://arxiv.org/abs/2312.12359)|N/A|
+|2023|arXiv|`vlm.`, `pl.`|[CLIP Is Also a Good Teacher: A New Learning Framework for Inductive Zero-shot Semantic Segmentation](https://arxiv.org/pdf/2310.02296)|N/A|
 
 #### Instance Segmentation
 
@@ -245,6 +246,7 @@ This survey presents the first detailed survey on open vocabulary tasks, includi
 |2023|CVPR|`diff`, `vlm`|[Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models](https://arxiv.org/abs/2303.04803)|[Code](https://github.com/NVlabs/ODISE)|
 |2023|arXiv|`vlm.`|[Open-vocabulary Panoptic Segmentation with Embedding Modulation](https://arxiv.org/abs/2303.11324)|N/A|
 |2023|arXiv|`vlm.`, `unify`|[Hierarchical Open-vocabulary Universal Image Segmentation]([https://arxiv.org/abs/2303.11324](https://arxiv.org/abs/2307.00764))| [Code](https://github.com/berkeley-hipie/HIPIE)|
+|2023|arXiv|`vlm.`|[Generalizable Semantic Vision Query Generation for Zero-shot Panoptic and Semantic Segmentation]([https://arxiv.org/pdf/2402.13697)|N/A|
 
 ### Open Vocabulary Video Understanding
 
