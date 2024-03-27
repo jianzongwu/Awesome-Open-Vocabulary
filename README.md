@@ -159,11 +159,11 @@ This survey presents the first detailed survey on open vocabulary tasks, includi
 |2023|arXiv|`cap.`, `pl.`|[Open-Vocabulary Object Detection using Pseudo Caption Labels](https://arxiv.org/abs/2303.13040)|N/A|
 |2023|arXiv|`vlm.`, `pl.`|[Three ways to improve feature alignment for open vocabulary detection](https://arxiv.org/abs/2303.13518)|N/A|
 |2023|arXiv|`vlm.`|[Prompt-Guided Transformers for End-to-End Open-Vocabulary Object Detection](https://arxiv.org/abs/2303.14386)|N/A|
-|2023|arXiv|`vlm.`, `cap.`, `pl.`|[MaMMUT: A Simple Architecture for Joint Learning for MultiModal Tasks](https://arxiv.org/abs/2303.16839)|N/A|
-|2023|arXiv|`vlm.`, `cap.`, `pl.`|[Scaling Open-Vocabulary Object Detection](arxiv.org/abs/2306.09683)|N/A|
+|2023|TMLR|`vlm.`, `cap.`, `pl.`|[MaMMUT: A Simple Architecture for Joint Learning for MultiModal Tasks](https://arxiv.org/abs/2303.16839)|N/A|
+|2023|NeurIPS|`vlm.`, `cap.`, `pl.`|[Scaling Open-Vocabulary Object Detection](arxiv.org/abs/2306.09683)|N/A|
 |2023|arXiv|`vlm.`|[Open-Vocabulary Object Detection via Scene Graph Discovery](http://arxiv.org/abs/2307.03339)|N/A|
 |2023|ICCV|`vlm.`|[Detection-Oriented Image-Text Pretraining for Open-Vocabulary Detection](https://arxiv.org/abs/2310.00161)|[Code](https://github.com/google-research/google-research/tree/master/fvlm/dito)|
-|2023|arXiv|`vlm.`|[EdaDet: Open-Vocabulary Object Detection Using Early Dense Alignment](https://arxiv.org/abs/2309.01151)|[Code](https://chengshiest.github.io/edadet/)|
+|2023|ICCV|`vlm.`|[EdaDet: Open-Vocabulary Object Detection Using Early Dense Alignment](https://arxiv.org/abs/2309.01151)|[Code](https://chengshiest.github.io/edadet/)|
 |2023|KDD|`vlm.`|[What Makes Good Open-Vocabulary Detector: A Disassembling Perspective](https://arxiv.org/abs/2309.00227)|N/A|
 |2023|NeurIPS |`vlm.`|[CoDet: Co-Occurrence Guided Region-Word Alignment for Open-Vocabulary Object Detection](https://arxiv.org/abs/2310.16667)|[Code](https://github.com/cvmi-lab/codet)|
 |2023|arXiv|`vlm.`|[DST-Det: Simple Dynamic Self-Training for Open-Vocabulary Object Detection](https://arxiv.org/abs/2310.01393)|[Code](https://github.com/xushilin1/dst-det)|
@@ -223,7 +223,7 @@ This survey presents the first detailed survey on open vocabulary tasks, includi
 |2023|arXiv|`vlm.`|[Open-Vocabulary Segmentation with Semantic-Assisted Calibration](https://arxiv.org/abs/2312.04089)|N/A|
 |2023|arXiv|`vlm.`, `no-train`|[Self-Guided Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2312.04539)|N/A|
 |2023|arXiv|`no-train.`, `vlm.`, `sam`|[CLIP as RNN: Segment Countless Visual Concepts without Training Endeavor](https://arxiv.org/abs/2312.07661)|[Project](https://torrvision.com/clip_as_rnn/)|
-|2023|arXiv|`vlm.`|[CLIP-DINOiser: Teaching CLIP a few DINO tricks](https://arxiv.org/abs/2312.12359)|N/A|
+|2023|arXiv|`vlm.`|[CLIP-DINOiser: Teaching CLIP a few DINO tricks](https://arxiv.org/abs/2312.12359)|[Code](https://github.com/wysoczanska/clip_dinoiser)|
 
 #### Instance Segmentation
 
@@ -243,8 +243,9 @@ This survey presents the first detailed survey on open vocabulary tasks, includi
 |2023|CVPR|`unify.`, `vlm.` |[Primitive Generation and Semantic-related Alignment for Universal Zero-Shot Segmentation](https://henghuiding.github.io/PADing/)|[Code](https://github.com/heshuting555/PADing)|
 |2022|arXiv|`vlm`|[Open-Vocabulary Panoptic Segmentation with MaskCLIP](https://arxiv.org/abs/2208.08984)|N/A|
 |2023|CVPR|`diff`, `vlm`|[Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models](https://arxiv.org/abs/2303.04803)|[Code](https://github.com/NVlabs/ODISE)|
-|2023|arXiv|`vlm.`|[Open-vocabulary Panoptic Segmentation with Embedding Modulation](https://arxiv.org/abs/2303.11324)|N/A|
-|2023|arXiv|`vlm.`, `unify`|[Hierarchical Open-vocabulary Universal Image Segmentation]([https://arxiv.org/abs/2303.11324](https://arxiv.org/abs/2307.00764))| [Code](https://github.com/berkeley-hipie/HIPIE)|
+|2023|ICCV|`vlm.`|[Open-vocabulary Panoptic Segmentation with Embedding Modulation](https://arxiv.org/abs/2303.11324)|N/A|
+|2023|NeurIPS|`vlm.`, `unify`|[Hierarchical Open-vocabulary Universal Image Segmentation](https://arxiv.org/abs/2307.00764) | [Code](https://github.com/berkeley-hipie/HIPIE)|
+|2024|CVPR|`vlm.`, `unify`, 'open'|[OMG-Seg: Is One Model Good Enough For All Segmentation?](https://arxiv.org/abs/2401.10229)| [Code](https://github.com/lxtGH/OMG-Seg)|
 
 ### Open Vocabulary Video Understanding
 
@@ -328,7 +329,7 @@ This survey presents the first detailed survey on open vocabulary tasks, includi
 |2022|CVPR|-|[Open-World Instance Segmentation: Exploiting Pseudo Ground Truth From Learned Pairwise Affinity](https://arxiv.org/abs/2204.06107)|[Project](https://sites.google.com/view/generic-grouping/)|
 |2022|ECCV|-|[Class-agnostic object detection with multi-modal transformer](https://arxiv.org/abs/2111.11430)|[Code](https://git.io/J1HPY)|
 |2022|TPAMI|-|[Open World Entity Segmentation](https://arxiv.org/abs/2107.14228)|[Project](http://luqi.info/Entity_Web/)|
-|2022|arXiv|-|[Fine-Grained Entity Segmentation](https://arxiv.org/abs/2211.05776)|[Project](http://luqi.info/entityv2.github.io/)|
+|2023|ICCV|-|[Fine-Grained Entity Segmentation](https://arxiv.org/abs/2211.05776)|[Project](http://luqi.info/entityv2.github.io/)|
 
 ### Open-World Object Detection
 
@@ -350,7 +351,7 @@ This survey presents the first detailed survey on open vocabulary tasks, includi
 |Year|Venue|Keywords|Paper Title|Code/Project|
 |:-:|:-:|:-:|-|-|
 |2021|CVPR|-|[Exemplar-Based Open-Set Panoptic Segmentation Network](https://arxiv.org/abs/2105.08336)|[Project](https://cv.snu.ac.kr/research/EOPSN/)|
-|2022|arXiv|-|[Dual Decision Improves Open-Set Panoptic Segmentation](https://arxiv.org/abs/2207.02504)|[Code](https://github.com/HeimingX/OPS_dual_decision)|
+|2022|BMVC|-|[Dual Decision Improves Open-Set Panoptic Segmentation](https://arxiv.org/abs/2207.02504)|[Code](https://github.com/HeimingX/OPS_dual_decision)|
 
 ## Acknowledgement
 
