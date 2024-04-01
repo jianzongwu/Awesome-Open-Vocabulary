@@ -374,3 +374,4 @@ jzwu@stu.pku.edu.cn
 ```
 lxtpku@pku.edu.cn or xiangtai94@gmail.com
 ```
+![Alt Text](figs/star.png)
