@@ -331,6 +331,7 @@ This survey presents the first detailed survey on open vocabulary tasks, includi
 |2022|ECCV|-|[Class-agnostic object detection with multi-modal transformer](https://arxiv.org/abs/2111.11430)|[Code](https://git.io/J1HPY)|
 |2022|TPAMI|-|[Open World Entity Segmentation](https://arxiv.org/abs/2107.14228)|[Project](http://luqi.info/Entity_Web/)|
 |2023|ICCV|-|[Fine-Grained Entity Segmentation](https://arxiv.org/abs/2211.05776)|[Project](http://luqi.info/entityv2.github.io/)|
+|2023|ICCV|`bench`|[SegPrompt: Boosting Open-World Segmentation via Category-level Prompt Learning](https://arxiv.org/abs/2308.06531)|[Code](https://github.com/aim-uofa/SegPrompt)|
 
 ### Open-World Object Detection
 
