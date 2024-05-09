@@ -176,6 +176,7 @@ This survey presents the first detailed survey on open vocabulary tasks, includi
 |2024|AAAI|`unify.`, `vlm.`, `pre.`|[CLIM: Contrastive Language-Image Mosaic for Region Representation](https://arxiv.org/abs/2312.11376)|[Code](https://github.com/wusize/CLIM)|
 |2024|WACV|`vlm.`|[LP-OVOD: Open-Vocabulary Object Detection by Linear Probing](https://arxiv.org/abs/2310.17109)|[Code](https://github.com/VinAIResearch/LP-OVOD)|
 |2024|CVPR|`vlm.`|[YOLO-World: Real-Time Open-Vocabulary Object Detection](https://arxiv.org/abs/2401.17270)|[Code](https://github.com/AILab-CVC/YOLO-World)|
+|2024|ICLR|`vlm.`|[LLMs Meet VLMs: Boost Open Vocabulary Object Detection with Fine-grained Descriptors](https://arxiv.org/pdf/2402.04630)|N/A|
 
 ### Open Vocabulary Segmentation
 
