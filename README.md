@@ -319,6 +319,7 @@ This survey presents the first detailed survey on open vocabulary tasks, includi
 |2023|arXiv|`vlm.`|[OpenIns3D: Snap and Lookup for 3D Open-vocabulary Instance Segmentation](https://arxiv.org/abs/2309.00616)|[Project](https://zheninghuang.github.io/OpenIns3D/)|
 |2023|arXiv|`vlm.`|[Open3DIS: Open-vocabulary 3D Instance Segmentation with 2D Mask Guidance](https://arxiv.org/abs/2312.10671)|[Project](https://open3dis.github.io)|
 |2024|arXiv|`vlm.`|[UniM-OV3D: Uni-Modality Open-Vocabulary 3D Scene Understanding with Fine-Grained Feature Representation](https://arxiv.org/abs/2401.11395)|[Code](https://github.com/hithqd/UniM-OV3D)|
+|2024|arXiv|`vlm.`|[OpenSU3D: Open World 3D Scene Understanding using Foundation Models](https://arxiv.org/abs/2407.14279)|[Project](https://opensu3d.github.io/)|
 
 ## Related Domains and Beyond
 
