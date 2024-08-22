@@ -42,7 +42,7 @@
   </p>
 <br />
 
-This repo is used for recording, tracking, and benchmarking several recent open vocabulary methods to supplement our [survey](https://arxiv.org/abs/2306.15880).  
+This repo is used for recording, tracking, and benchmarking several recent open vocabulary methods to supplement our [survey](https://arxiv.org/abs/2306.15880).
 If you find any work missing or have any suggestions (papers, implementations, and other resources), feel free to [pull requests](https://github.com/jianzongwu/Awesome-Open-Vocabulary/pulls).
 We will add the missing papers to this repo as soon as possible.
 
@@ -68,7 +68,7 @@ We will add the missing papers to this repo as soon as possible.
 
 [1]  The first survey for open vocabulary learning, including open vocabulary detection/segmentation/tracking.
 
-[2]  It also contains several related domains, including foundation model tuning and open-world detection. 
+[2]  It also contains several related domains, including foundation model tuning and open-world detection.
 
 [3]  We list detailed results for the most representative works and give a fairer and clearer comparison of different approaches.
 
@@ -110,7 +110,7 @@ This survey presents the first detailed survey on open vocabulary tasks, includi
 **Keywords**
 
 - `cap.`: Use caption as auxiliary training data
-- `vlm.`: Use pretrained VLMs like CLIP 
+- `vlm.`: Use pretrained VLMs like CLIP
 - `pl.`: Generate pseudo labels
 - `w/o ps.`: Training without pixel-level supervision
 - `pre.`: Vision-language pretraining
@@ -226,6 +226,7 @@ This survey presents the first detailed survey on open vocabulary tasks, includi
 |2023|arXiv|`no-train.`, `vlm.`, `sam`|[CLIP as RNN: Segment Countless Visual Concepts without Training Endeavor](https://arxiv.org/abs/2312.07661)|[Project](https://torrvision.com/clip_as_rnn/)|
 |2023|arXiv|`vlm.`|[CLIP-DINOiser: Teaching CLIP a few DINO tricks](https://arxiv.org/abs/2312.12359)|[Code](https://github.com/wysoczanska/clip_dinoiser)|
 |2024|arXiv|`vlm.`, `no-train`|[Pay Attention to Your Neighbours: Training-Free Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2404.08181)|[Code](https://github.com/sinahmr/NACLIP)|
+|2024|ECCV|`vlm.`, `no-train`|[In Defense of Lazy Visual Grounding for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2408.04961)|[Code](https://github.com/dahyun-kang/lavg)|
 
 #### Instance Segmentation
 
@@ -363,7 +364,7 @@ If you find our survey and repository useful for your research project, please c
 
 ```bibtex
 @article{wu2023open,
-      title={Towards Open Vocabulary Learning: A Survey}, 
+      title={Towards Open Vocabulary Learning: A Survey},
       author={Jianzong Wu and Xiangtai Li and Shilin Xu and Haobo Yuan and Henghui Ding and Yibo Yang and Xia Li and Jiangning Zhang and Yunhai Tong and Xudong Jiang and Bernard Ghanem and Dacheng Tao},
       year={2024},
       journal={T-PAMI},
