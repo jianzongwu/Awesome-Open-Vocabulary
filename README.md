@@ -269,6 +269,7 @@ This survey presents the first detailed survey on open vocabulary tasks, includi
 |2023|ICCV|`vlm.`,`open.`|[MAtch, eXpand and Improve: Unsupervised Finetuning for Zero-Shot Action Recognition with Language Knowledge](https://arxiv.org/abs/2303.08914)|[Code](https://github.com/wlin-at/MAXI)|
 |2023|arXiv|`vlm.`,`open.`|[VicTR: Video-conditioned Text Representations for Activity Recognition](https://arxiv.org/abs/2304.02560)|N/A|
 |2023|arXiv|`vlm.`,`open.`|[Generating Action-conditioned Prompts for Open-vocabulary Video Action Recognition](https://arxiv.org/abs/2312.02226)|N/A|
+|2024|NeurIPS|`vlm.`,`open.`|[AWT: Transferring Vision-Language Models via Augmentation, Weighting, and Transportation](https://arxiv.org/abs/2407.04603)|[Code](https://github.com/MCG-NJU/AWT)|
 
 #### Tracking
 
