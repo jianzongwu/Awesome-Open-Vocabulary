@@ -177,7 +177,7 @@ This survey presents the first detailed survey on open vocabulary tasks, includi
 |2024|CVPR|`vlm.`|[YOLO-World: Real-Time Open-Vocabulary Object Detection](https://arxiv.org/abs/2401.17270)|[Code](https://github.com/AILab-CVC/YOLO-World)|
 |2024|CVPR|`bench`|[The devil is in the fine-grained details: Evaluating open-vocabulary object detectors for fine-grained understanding](https://openaccess.thecvf.com/content/CVPR2024/papers/Bianchi_The_Devil_is_in_the_Fine-Grained_Details_Evaluating_Open-Vocabulary_Object_CVPR_2024_paper.pdf)|[Project](https://lorebianchi98.github.io/FG-OVD/)|
 |2024|ICLR|`vlm.`|[LLMs Meet VLMs: Boost Open Vocabulary Object Detection with Fine-grained Descriptors](https://arxiv.org/pdf/2402.04630)|N/A|
-
+|2024|arXiv|`vlm.`|[Mamba-YOLO-World: Marrying YOLO-World with Mamba for Open-Vocabulary Detection](https://arxiv.org/abs/2409.08513)|[Code](https://github.com/Xuan-World/Mamba-YOLO-World)|
 ### Open Vocabulary Segmentation
 
 |Year|Venue|Keywords|Paper Title|Code/Project|
