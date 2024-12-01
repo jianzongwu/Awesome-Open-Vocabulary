@@ -308,6 +308,7 @@ This survey presents the first detailed survey on open vocabulary tasks, includi
 |2023|arXiv|`vlm.`|[Object2Scene: Putting Objects in Context for Open-Vocabulary 3D Detection](https://arxiv.org/abs/2309.09456)|N/A|
 |2023|arXiv|`vlm.`|[FM-OV3D: Foundation Model-based Cross-modal Knowledge Blending for Open-Vocabulary 3D Detection](https://arxiv.org/abs/2312.14465)|N/A|
 |2023|arXiv|`vlm.`|[OpenSight: A Simple Open-Vocabulary Framework for LiDAR-Based Object Detection](https://arxiv.org/abs/2312.08876)|N/A|
+|2024|arXiv|`vlm.`|[Open Vocabulary Monocular 3D Object Detection](https://arxiv.org/abs/2411.16833)|[Project](https://uva-computer-vision-lab.github.io/ovmono3d/)|
 
 #### 3D segmentation
 
