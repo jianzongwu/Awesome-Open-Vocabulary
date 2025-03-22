@@ -168,7 +168,7 @@ This survey presents the first detailed survey on open vocabulary tasks, includi
 |2023|NeurIPS |`vlm.`|[CoDet: Co-Occurrence Guided Region-Word Alignment for Open-Vocabulary Object Detection](https://arxiv.org/abs/2310.16667)|[Code](https://github.com/cvmi-lab/codet)|
 |2023|arXiv|`vlm.`|[DST-Det: Simple Dynamic Self-Training for Open-Vocabulary Object Detection](https://arxiv.org/abs/2310.01393)|[Code](https://github.com/xushilin1/dst-det)|
 |2023|arXiv|`vlm.`|[Taming Self-Training for Open-Vocabulary Object Detection](https://arxiv.org/abs/2308.06412)|[Code](https://github.com/xiaofeng94/sas-det)|
-|2023|arXiv|`unify.`, `vlm.`, `pre.`|[CLIPSelf: Vision Transformer Distills Itself for Open-Vocabulary Dense Prediction](https://arxiv.org/abs/2310.01403)|[Code](https://github.com/wusize/CLIPSelf)|
+|2024|ICLR|`unify.`, `vlm.`, `pre.`|[CLIPSelf: Vision Transformer Distills Itself for Open-Vocabulary Dense Prediction](https://arxiv.org/abs/2310.01403)|[Code](https://github.com/wusize/CLIPSelf)|
 |2023|BMVC|`vlm.`|[Open-Vocabulary Object Detection with Meta Prompt Representation and Instance Contrastive Optimization]([http://arxiv.org/abs/2307.03339](https://proceedings.bmvc2023.org/93/))|N/A|
 |2024|AAAI|`vlm.`|[Simple Image-level Classification Improves Open-vocabulary Object Detection](https://arxiv.org/abs/2312.10439)|[Code](https://github.com/mala-lab/sic-cads)|
 |2024|AAAI|`vlm.`|[ProxyDet: Synthesizing Proxy Novel Classes via Classwise Mixup for Open-Vocabulary Object Detection](https://arxiv.org/abs/2312.07266)|[Code](https://github.com/clovaai/ProxyDet)|
@@ -224,7 +224,7 @@ This survey presents the first detailed survey on open vocabulary tasks, includi
 |2023|arXiv|`vlm.`, `no-train`|[Grounding Everything: Emerging Localization Properties in Vision-Language Transformers](https://arxiv.org/abs/2312.00878)|[Code](https://github.com/WalBouss/GEM)|
 |2023|arXiv|`vlm.`|[Open-Vocabulary Segmentation with Semantic-Assisted Calibration](https://arxiv.org/abs/2312.04089)|N/A|
 |2023|arXiv|`vlm.`, `no-train`|[Self-Guided Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2312.04539)|N/A|
-|2023|arXiv|`no-train.`, `vlm.`, `sam`|[CLIP as RNN: Segment Countless Visual Concepts without Training Endeavor](https://arxiv.org/abs/2312.07661)|[Project](https://torrvision.com/clip_as_rnn/)|
+|2024|CVPR|`no-train.`, `vlm.`, `sam`|[CLIP as RNN: Segment Countless Visual Concepts without Training Endeavor](https://arxiv.org/abs/2312.07661)|[Project](https://torrvision.com/clip_as_rnn/)|
 |2023|arXiv|`vlm.`|[CLIP-DINOiser: Teaching CLIP a few DINO tricks](https://arxiv.org/abs/2312.12359)|[Code](https://github.com/wysoczanska/clip_dinoiser)|
 |2024|arXiv|`vlm.`, `no-train`|[Pay Attention to Your Neighbours: Training-Free Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2404.08181)|[Code](https://github.com/sinahmr/NACLIP)|
 |2024|ECCV|`vlm.`, `no-train`|[In Defense of Lazy Visual Grounding for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2408.04961)|[Code](https://github.com/dahyun-kang/lavg)|
