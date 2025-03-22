@@ -179,6 +179,7 @@ This survey presents the first detailed survey on open vocabulary tasks, includi
 |2024|ICLR|`vlm.`|[LLMs Meet VLMs: Boost Open Vocabulary Object Detection with Fine-grained Descriptors](https://arxiv.org/pdf/2402.04630)|N/A|
 |2024|arXiv|`vlm.`|[Mamba-YOLO-World: Marrying YOLO-World with Mamba for Open-Vocabulary Detection](https://arxiv.org/abs/2409.08513)|[Code](https://github.com/Xuan-World/Mamba-YOLO-World)|
 |2025|WACV|`no-train`, `vlm.`, `sam`|[Enhancing Novel Object Detection via Cooperative Foundational Models](https://openaccess.thecvf.com/content/WACV2025/papers/Bharadwaj_Enhancing_Novel_Object_Detection_via_Cooperative_Foundational_Models_WACV_2025_paper.pdf)|[Code](https://github.com/rohit901/cooperative-foundational-models)|
+|2025|ICRA|`bench`|[Fine-Grained Open-Vocabulary Object Detection with Fined-Grained Prompts: Task, Dataset and Benchmark](https://arxiv.org/pdf/2503.14862)|[Code](https://github.com/tengerye/3FOVD),[Dataset](https://github.com/tengerye/3FOVD/tree/master/datasets),[Benchmark](https://github.com/tengerye/3FOVD/blob/master/src/open_vocabulary/README.md)|
 ### Open Vocabulary Segmentation
 
 |Year|Venue|Keywords|Paper Title|Code/Project|
